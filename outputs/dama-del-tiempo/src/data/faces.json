@@ -1,0 +1,249 @@
+{
+  "system": "Faces según el orden caldeo",
+  "source": "William Lilly, Christian Astrology (1647), p. 104, columna de faces",
+  "reference": "https://www.skyscript.co.uk/essential_dignities.html",
+  "version": "1.0.0",
+  "boundary": "[inicio, fin): comienzo inclusivo, final exclusivo; grados sin redondear",
+  "intervals": [
+    {
+      "sign": "Aries",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Marte"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Sol"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Venus"
+        }
+      ]
+    },
+    {
+      "sign": "Tauro",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Luna"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Géminis",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Marte"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Sol"
+        }
+      ]
+    },
+    {
+      "sign": "Cáncer",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Venus"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Luna"
+        }
+      ]
+    },
+    {
+      "sign": "Leo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    },
+    {
+      "sign": "Virgo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Sol"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Venus"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Mercurio"
+        }
+      ]
+    },
+    {
+      "sign": "Libra",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Luna"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Júpiter"
+        }
+      ]
+    },
+    {
+      "sign": "Escorpio",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Marte"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Sol"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Venus"
+        }
+      ]
+    },
+    {
+      "sign": "Sagitario",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Luna"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Capricornio",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Marte"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Sol"
+        }
+      ]
+    },
+    {
+      "sign": "Acuario",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Venus"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Luna"
+        }
+      ]
+    },
+    {
+      "sign": "Piscis",
+      "segments": [
+        {
+          "start": 0,
+          "end": 10,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    }
+  ]
+}

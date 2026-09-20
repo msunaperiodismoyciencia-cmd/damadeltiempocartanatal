@@ -1,0 +1,25 @@
+test_01_all_rows_and_cells (__main__.CatalogAudit.test_01_all_rows_and_cells) ... ok
+test_02_ids_and_original_names_unique (__main__.CatalogAudit.test_02_ids_and_original_names_unique) ... ok
+test_03_translations_alignment (__main__.CatalogAudit.test_03_translations_alignment) ... ok
+test_04_statuses_and_pending_approval (__main__.CatalogAudit.test_04_statuses_and_pending_approval) ... ok
+test_05_warning_marks_exact (__main__.CatalogAudit.test_05_warning_marks_exact) ... ok
+test_06_no_unconditional_reversal_of_special_rules (__main__.CatalogAudit.test_06_no_unconditional_reversal_of_special_rules) ... ok
+test_07_sect_restrictions_preserved (__main__.CatalogAudit.test_07_sect_restrictions_preserved) ... ok
+test_08_formula_templates_match_operands (__main__.CatalogAudit.test_08_formula_templates_match_operands) ... ok
+test_09_seven_initial_rows_exact_pdf (__main__.CatalogAudit.test_09_seven_initial_rows_exact_pdf) ... ok
+test_10_operand_inventory_and_unresolved_positions (__main__.CatalogAudit.test_10_operand_inventory_and_unresolved_positions) ... ok
+test_11_dependencies_reference_explicit_rows (__main__.CatalogAudit.test_11_dependencies_reference_explicit_rows) ... ok
+test_12_sources_not_invented (__main__.CatalogAudit.test_12_sources_not_invented) ... ok
+test_13_categories_not_inferred (__main__.CatalogAudit.test_13_categories_not_inferred) ... ok
+test_14_unavailable_tooltips_not_reconstructed (__main__.CatalogAudit.test_14_unavailable_tooltips_not_reconstructed) ... ok
+test_15_csv_matches_json (__main__.CatalogAudit.test_15_csv_matches_json) ... ok
+test_16_html_embedded_data_identical (__main__.CatalogAudit.test_16_html_embedded_data_identical) ... ok
+test_17_row_provenance (__main__.CatalogAudit.test_17_row_provenance) ... ok
+test_18_no_variant_merging (__main__.CatalogAudit.test_18_no_variant_merging) ... ok
+test_19_summary_matches_records (__main__.CatalogAudit.test_19_summary_matches_records) ... ok
+test_20_manuscript_marks_have_printed_definitions (__main__.CatalogAudit.test_20_manuscript_marks_have_printed_definitions) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.030s
+
+OK

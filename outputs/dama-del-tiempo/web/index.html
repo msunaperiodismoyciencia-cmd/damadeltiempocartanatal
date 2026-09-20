@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Dama del Tiempo · Carta tradicional</title><meta name="description" content="Cálculo local de astrología tradicional con Swiss Ephemeris."><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/style.css"><script type="module" src="/app.js"></script><script type="module" src="/presentation.js"></script></head>
+<body>
+<header><a class="brand" href="/" aria-label="Dama del Tiempo, inicio"><img class="brand-logo" src="/favicon.svg" alt="Dama del Tiempo — Astrología milenaria para la vida contemporánea" width="2122" height="835"></a><span class="badge">Carta y rueda · Prototipo local</span></header>
+<main>
+<div class="intro"><div><p class="eyebrow">EL MAPA DEL INSTANTE</p><h1>Calcular una carta</h1></div><p>Tropical · Geocéntrica<br>Cuatro sistemas de casas</p></div>
+<div class="workspace">
+<section class="panel input-panel" aria-labelledby="data-title"><div class="section-title"><h2 id="data-title">Datos de la carta</h2><span>01</span></div>
+<form id="chart-form">
+<label for="name">Nombre <span class="muted">opcional</span></label><input id="name" maxlength="120" autocomplete="off" placeholder="Sin nombre">
+<div class="pair"><div><label for="date">Fecha</label><input id="date" type="date" min="1800-01-01" max="2399-12-31" required></div><div><label for="time">Hora local exacta</label><input id="time" type="time" step="1" required></div></div>
+<label for="place">Localidad</label><div class="search"><input id="place" placeholder="Escribí el nombre de la ciudad" autocomplete="off"><button type="button" id="search">Buscar</button></div>
+<p class="hint">Escribí la ciudad y elegí la localidad de la lista: las coordenadas y la zona horaria se completan automáticamente.</p><p class="hint">La búsqueda consulta Open-Meteo / GeoNames. Solo se envía el lugar. Servicio gratuito para uso no comercial; para uso comercial, ingresá los datos manualmente.</p><div id="place-results" aria-live="polite"></div><p id="place-status" class="hint" role="status"></p>
+<div class="pair"><div><label for="latitude">Latitud</label><input id="latitude" type="number" min="-89.999999" max="89.999999" step="any" placeholder="−34,6037" required></div><div><label for="longitude">Longitud</label><input id="longitude" type="number" min="-180" max="180" step="any" placeholder="−58,3816" required></div></div>
+<label for="timezone">Zona horaria IANA</label><input id="timezone" placeholder="America/Argentina/Buenos_Aires" required autocomplete="off"><p class="hint">Se completa al elegir el lugar. También podés ingresar los tres datos manualmente, sin conexión.</p>
+<details><summary>Opciones de cálculo</summary>
+<label for="fold">Si la hora ocurrió dos veces</label><select id="fold"><option value="">Pedir aclaración</option><option value="0">Primera ocurrencia</option><option value="1">Segunda ocurrencia</option></select>
+<label for="node">Nodo lunar</label><select id="node"><option value="mean">Medio</option><option value="true">Verdadero</option></select>
+<label for="threshold">Umbral estacionario (°/día)</label><input id="threshold" type="number" min="0" max="0.1" step="0.0001" value="0.001"><p class="hint">Convención provisional: velocidad absoluta ≤ umbral. Pendiente de tu criterio astrológico.</p>
+</details>
+<button class="primary" id="calculate" type="submit" disabled>Calcular carta <span aria-hidden="true">↗</span></button>
+<button class="sample" id="sample" type="button">Cargar ejemplo de comprobación</button>
+<p class="privacy">Sin registro. Sin almacenamiento de cartas.<br>El nombre permanece en tu navegador.</p>
+</form></section>
+<section class="panel results-panel" aria-labelledby="results-title"><div class="section-title"><h2 id="results-title">Posiciones y casas</h2><span>02</span></div>
+<label for="house-system">Sistema de casas</label><select id="house-system" disabled><option>Cargando sistemas…</option></select>
+<p id="status" role="status" aria-live="polite"></p><div id="error" role="alert" hidden></div>
+<div id="empty"><span class="empty-mark" aria-hidden="true">✧</span><h3>Un instante, con precisión.</h3><p>Ingresá la fecha, la hora y el lugar.<br>Acá aparecerán las posiciones calculadas<br>y las doce cúspides.</p><span class="caption">SIETE PLANETAS · DOS SISTEMAS DE CASAS</span></div>
+<div id="results" hidden><div class="result-heading"><h3 id="chart-name"></h3><span class="badge">Swiss Ephemeris</span></div><p id="time-summary" class="time-summary"></p><p id="warning" class="warning" hidden></p><div id="angles" class="angles"></div>
+<p id="active-system" class="system-label"></p>
+<section class="wheel-section" aria-labelledby="wheel-heading"><h3 id="wheel-heading">Rueda de la carta</h3>
+<div class="wheel-controls"><label><input id="show-terms" type="checkbox" checked> Mostrar términos</label><label><input id="show-aspects" type="checkbox" checked> Aspectos</label><label><input id="show-degrees" type="checkbox" checked> Grados planetarios</label><label><input id="show-cusps" type="checkbox" checked> Cúspides</label></div>
+<div class="wheel-selects"><label for="wheel-mode">Presentación<select id="wheel-mode"><option value="color">A color</option><option value="print">Impresión en blanco y negro</option></select></label><label for="wheel-zoom">Ampliación<select id="wheel-zoom"><option value="100">Encajar</option><option value="150">150 %</option><option value="200">200 %</option><option value="300">300 %</option></select></label></div>
+<div class="wheel-viewport" tabindex="0" aria-label="Rueda astrológica. Al ampliar, desplazá la vista para explorarla."><div id="wheel" class="wheel-zoom-100"></div></div>
+<p id="term-info" class="hint" role="status">Tocá un término o enfocá su glifo para consultar intervalo, regente y fuente. El 30° de un signo coincide con el 0° del siguiente.</p><p class="hint">ASC a la izquierda · MC en su longitud real. Las líneas finas unen los glifos con su posición exacta. En teléfono, ampliá la rueda para leer los minutos; la tabla completa está debajo.</p>
+<div class="wheel-downloads"><button id="download-svg" type="button">Descargar SVG</button><button id="download-png" type="button">Descargar PNG · 3300 px</button></div><p id="wheel-message" class="hint" role="status"></p>
+<p><strong>Orbes planetarios medievales por semisuma</strong> · Sistema medieval por semisuma, predeterminado.</p>
+<p class="hint">Sistema de orbes planetarios y moieties asociado con la tradición medieval de Al-Bīrūnī y Guido Bonatti, según la enseñanza recopilada por Robert Zoller. Valores adoptados según la configuración solicitada para este proyecto.</p>
+<p id="planet-orbs">Sol 15° · Luna 12° · Saturno 9° · Júpiter 9° · Marte 8° · Venus 7° · Mercurio 7°.</p>
+<details class="orbs"><summary>Personalizar orbes planetarios</summary><p class="hint">Semisuma = (orbe del planeta A + orbe del planeta B) / 2. Desviación ≤ semisuma: dentro de orbe. Cada planeta conserva su orbe para los cinco aspectos. Solo siete planetas; ajustes durante esta sesión. Se evalúa cada aspecto por separado, incluso si varios cumplen con orbes personalizados amplios.</p><div id="orb-inputs"></div><button type="button" id="reset-orbs">Restablecer valores medievales</button></details>
+<p id="orb-summary" class="hint" role="status"></p>
+<div class="aspect-legend" aria-label="Leyenda de aspectos"><span>☌ Conjunción · círculo</span><span>⚹ Sextil · punteado</span><span>□ Cuadratura · guiones</span><span>△ Trígono · continuo</span><span>☍ Oposición · guion y punto</span></div>
+<section id="compact-aspects" aria-labelledby="aspect-title"><h4 id="aspect-title">Aspectos</h4><div class="aspect-toolbar"><label for="aspect-order">Ordenar por</label><select id="aspect-order"><option value="planet">Planeta</option><option value="orb">Orbe</option></select><button id="download-aspects" type="button">Exportar CSV</button></div><div class="table-wrap"><table class="compact-aspect-table"><thead><tr><th>Primer cuerpo</th><th>Aspecto</th><th>Segundo cuerpo</th><th>Orbe</th><th>Movimiento</th></tr></thead><tbody id="aspect-list"></tbody></table></div><p id="aspect-empty" class="hint" hidden>No hay aspectos dentro de orbe.</p></section>
+</section>
+<div class="table-wrap" tabindex="0" aria-label="Posiciones planetarias, tabla desplazable"><table><caption>Planetas y nodos</caption><thead><tr><th scope="col">Cuerpo</th><th scope="col">Posición</th><th scope="col" id="house-column">Casa activa</th><th scope="col">Comparación: signos enteros</th><th scope="col">°/día</th><th scope="col">Movimiento</th></tr></thead><tbody id="bodies"></tbody></table></div>
+<p class="hint">Casas por intervalo de longitud eclíptica, sin regla de los 5°. Posiciones redondeadas al minuto; cálculo interno con mayor precisión.</p>
+<div class="table-wrap" tabindex="0" aria-label="Cúspides, tabla desplazable"><table><caption>Cúspides de casas · sistema activo</caption><thead><tr><th scope="col">Casa</th><th scope="col">Signo</th><th scope="col">Grado</th><th scope="col">Minuto</th><th scope="col">Longitud absoluta</th><th scope="col">Sistema</th><th scope="col">Comparación: signos enteros</th></tr></thead><tbody id="cusps"></tbody></table></div>
+<section id="chart-dignities" aria-labelledby="dignities-title"><h3 id="dignities-title">Dignidades de la carta</h3><p>Dignidades tradicionales — términos egipcios · Triplicidades de Doroteo.</p><p id="sect-description"></p><p class="hint">El regente principal por secta recibe la dignidad de triplicidad activa. El participante se muestra por separado, sin puntos ni exclusión automática de peregrinidad. Exaltación y caída se aplican al signo entero; sus grados son referencias tradicionales.</p><label><input type="checkbox" id="show-dignity-score"> Mostrar puntuación según William Lilly</label><div id="dignities-cards"></div></section>
+<details><summary>Datos para verificar el cálculo</summary><pre id="technical"></pre></details></div>
+</section></div>
+<section class="panel" id="profections-section" aria-label="Profecciones anuales"></section>
+<section class="panel" id="lots-section" aria-label="Catálogo de lotes tradicionales"></section>
+<section class="panel" aria-labelledby="reference-title"><h2 id="reference-title">Tabla tradicional completa</h2><div id="dignities-reference"></div></section>
+<aside class="scope"><strong>Alcance actual</strong><p>Fechas UTC de 1800 a 2399, calendario gregoriano. Cada sistema se calcula con Swiss Ephemeris; si falla, no se sustituye. En latitudes extremas algunos sistemas pueden no estar disponibles. Rueda SVG y PNG con aspectos según tus orbes y lotes seleccionados. Sin técnicas predictivas ni interpretación automática.</p></aside>
+</main>
+<footer><span>Dama del Tiempo · Código abierto</span><div><a href="/source.zip" download="dama-del-tiempo-fuente.zip">Descargar código fuente</a><a href="/license">AGPLv3</a><a href="https://open-meteo.com/" target="_blank" rel="noreferrer">Localidades: Open-Meteo / GeoNames</a></div></footer>
+</body></html>

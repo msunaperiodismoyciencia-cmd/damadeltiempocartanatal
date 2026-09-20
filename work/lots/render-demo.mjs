@@ -1,0 +1,14 @@
+import {readFileSync,writeFileSync} from 'node:fs';
+import {createRequire} from 'node:module';
+import {catalog,defaultLots,calculateLots,lotsCsv} from '../../outputs/dama-del-tiempo/web/lots.js';
+import {appendLots} from '../../outputs/dama-del-tiempo/web/lots-wheel.js';
+import {renderWheel,defaultOptions} from '../../outputs/dama-del-tiempo/web/wheel.js';
+import {evaluateAspects} from '../../outputs/dama-del-tiempo/web/aspects.js';
+const require=createRequire(import.meta.url),{Resvg}=require('../svg-render/node_modules/@resvg/resvg-js');
+const data=JSON.parse(readFileSync('work/lots/demo-chart.json','utf8')),c=data.chart;
+const context={sect:c.sect.name,activeSystem:c.results.house_system.id,bodies:c.results.bodies,angles:c.results.angles,houses:data.houses};
+const results=calculateLots(defaultLots,context,{context:'Natal',allowDubious:false});
+const svg=appendLots(renderWheel(c.results,defaultOptions,evaluateAspects(c.results.bodies).filter(a=>a.active),'Greenwich · 1 enero 2000 · 12:00 UTC'),results,c.astronomy.ascendant);
+writeFileSync('outputs/lotes-ejemplo.svg',svg);writeFileSync('outputs/lotes-ejemplo.png',new Resvg(svg,{fitTo:{mode:'width',value:1300}}).render().asPng());
+writeFileSync('outputs/lotes-ejemplo.csv',lotsCsv(results));
+console.log(results.map(r=>({lote:catalog.find(x=>x.id===r.id).nameSpanish,posicion:r.position,casas:r.houses})));

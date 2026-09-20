@@ -1,0 +1,369 @@
+{
+  "system": "Términos egipcios",
+  "source": "Tabla The Egyptian terms, Skyscript; separada de los términos ptolemaicos de Lilly",
+  "reference": "https://www.skyscript.co.uk/essential_dignities.html",
+  "version": "1.0.0",
+  "boundary": "[inicio, fin): comienzo inclusivo, final exclusivo; grados sin redondear",
+  "intervals": [
+    {
+      "sign": "Aries",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "ruler": "Venus"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "ruler": "Marte"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Tauro",
+      "segments": [
+        {
+          "start": 0,
+          "end": 8,
+          "ruler": "Venus"
+        },
+        {
+          "start": 8,
+          "end": 14,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    },
+    {
+      "sign": "Géminis",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 12,
+          "end": 17,
+          "ruler": "Venus"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "ruler": "Marte"
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Cáncer",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7,
+          "ruler": "Marte"
+        },
+        {
+          "start": 7,
+          "end": 13,
+          "ruler": "Venus"
+        },
+        {
+          "start": 13,
+          "end": 19,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 26,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Leo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 6,
+          "end": 11,
+          "ruler": "Venus"
+        },
+        {
+          "start": 11,
+          "end": 18,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    },
+    {
+      "sign": "Virgo",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 7,
+          "end": 17,
+          "ruler": "Venus"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "ruler": "Marte"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Libra",
+      "segments": [
+        {
+          "start": 0,
+          "end": 6,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 6,
+          "end": 14,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "ruler": "Venus"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    },
+    {
+      "sign": "Escorpio",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7,
+          "ruler": "Marte"
+        },
+        {
+          "start": 7,
+          "end": 11,
+          "ruler": "Venus"
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Sagitario",
+      "segments": [
+        {
+          "start": 0,
+          "end": 12,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 12,
+          "end": 17,
+          "ruler": "Venus"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 26,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    },
+    {
+      "sign": "Capricornio",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 7,
+          "end": 14,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "ruler": "Venus"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "ruler": "Saturno"
+        },
+        {
+          "start": 26,
+          "end": 30,
+          "ruler": "Marte"
+        }
+      ]
+    },
+    {
+      "sign": "Acuario",
+      "segments": [
+        {
+          "start": 0,
+          "end": 7,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 7,
+          "end": 13,
+          "ruler": "Venus"
+        },
+        {
+          "start": 13,
+          "end": 20,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "ruler": "Marte"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    },
+    {
+      "sign": "Piscis",
+      "segments": [
+        {
+          "start": 0,
+          "end": 12,
+          "ruler": "Venus"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "ruler": "Júpiter"
+        },
+        {
+          "start": 16,
+          "end": 19,
+          "ruler": "Mercurio"
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "ruler": "Marte"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "ruler": "Saturno"
+        }
+      ]
+    }
+  ]
+}

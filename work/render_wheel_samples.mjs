@@ -1,0 +1,15 @@
+import {writeFileSync,readFileSync} from 'node:fs';
+import {renderWheel,defaultOptions,bodyGlyphs} from '../outputs/dama-del-tiempo/web/wheel.js';
+import {calculateAspects,pairKey} from '../outputs/dama-del-tiempo/web/aspects.js';
+const response=await fetch('http://127.0.0.1:8765/api/chart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({date:'2000-01-01',time:'12:00:00',latitude:51.4779,longitude:0,timezone:'Etc/UTC'})});
+if(!response.ok)throw Error(await response.text());
+const data=await response.json();
+writeFileSync('work/wheel-real-result.json',JSON.stringify(data));
+writeFileSync('outputs/rueda-greenwich.svg',renderWheel(data.results,defaultOptions,[],'Ejemplo Greenwich · 1/1/2000 12:00 UTC'));
+const orbs={};for(const a of data.results.bodies.slice(0,7))for(const b of data.results.bodies.slice(0,7))if(a!==b)orbs[pairKey(a.name,b.name)]=6;
+writeFileSync('work/wheel-aspects-test.svg',renderWheel(data.results,defaultOptions,calculateAspects(data.results.bodies,orbs),'Prueba de render: orbes de 6 grados'));
+writeFileSync('work/wheel-print-test.svg',renderWheel(data.results,{...defaultOptions,print:true},calculateAspects(data.results.bodies,orbs),'Prueba de impresión'));
+const dense=structuredClone(data.results);dense.bodies=Object.keys(bodyGlyphs).map((name,i)=>({name,longitude:359+i/60,position:'Datos sintéticos de prueba',motion:'Retrógrado'}));
+dense.cusps=[359,1,4,9,71,169,179,181,184,189,251,349].map((longitude,i)=>({longitude,house:i+1,position:'Prueba'}));
+dense.angles[0].longitude=359;dense.angles[1].longitude=189;
+writeFileSync('work/wheel-collision-test.svg',renderWheel(dense,defaultOptions,[],'DATOS SINTÉTICOS · prueba de colisiones'));

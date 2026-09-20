@@ -1,0 +1,171 @@
+{
+    "system": "Domicilios, exaltaciones, detrimentos y caídas tradicionales",
+    "source": "William Lilly, Christian Astrology (1647), p. 104",
+    "reference": "https://www.skyscript.co.uk/essential_dignities.html",
+    "version": "1.0.0",
+    "boundary": "[inicio, fin): comienzo inclusivo, final exclusivo; grados sin redondear",
+    "intervals": [
+        {
+            "sign": "Aries",
+            "start": 0,
+            "end": 30,
+            "domicile": "Marte",
+            "detriment": "Venus",
+            "exaltation": {
+                "planet": "Sol",
+                "degree": 19
+            },
+            "fall": {
+                "planet": "Saturno",
+                "degree": 21
+            },
+            "element": "Fuego"
+        },
+        {
+            "sign": "Tauro",
+            "start": 30,
+            "end": 60,
+            "domicile": "Venus",
+            "detriment": "Marte",
+            "exaltation": {
+                "planet": "Luna",
+                "degree": 3
+            },
+            "fall": null,
+            "element": "Tierra"
+        },
+        {
+            "sign": "Géminis",
+            "start": 60,
+            "end": 90,
+            "domicile": "Mercurio",
+            "detriment": "Júpiter",
+            "exaltation": null,
+            "fall": null,
+            "element": "Aire"
+        },
+        {
+            "sign": "Cáncer",
+            "start": 90,
+            "end": 120,
+            "domicile": "Luna",
+            "detriment": "Saturno",
+            "exaltation": {
+                "planet": "Júpiter",
+                "degree": 15
+            },
+            "fall": {
+                "planet": "Marte",
+                "degree": 28
+            },
+            "element": "Agua"
+        },
+        {
+            "sign": "Leo",
+            "start": 120,
+            "end": 150,
+            "domicile": "Sol",
+            "detriment": "Saturno",
+            "exaltation": null,
+            "fall": null,
+            "element": "Fuego"
+        },
+        {
+            "sign": "Virgo",
+            "start": 150,
+            "end": 180,
+            "domicile": "Mercurio",
+            "detriment": "Júpiter",
+            "exaltation": {
+                "planet": "Mercurio",
+                "degree": 15
+            },
+            "fall": {
+                "planet": "Venus",
+                "degree": 27
+            },
+            "element": "Tierra"
+        },
+        {
+            "sign": "Libra",
+            "start": 180,
+            "end": 210,
+            "domicile": "Venus",
+            "detriment": "Marte",
+            "exaltation": {
+                "planet": "Saturno",
+                "degree": 21
+            },
+            "fall": {
+                "planet": "Sol",
+                "degree": 19
+            },
+            "element": "Aire"
+        },
+        {
+            "sign": "Escorpio",
+            "start": 210,
+            "end": 240,
+            "domicile": "Marte",
+            "detriment": "Venus",
+            "exaltation": null,
+            "fall": {
+                "planet": "Luna",
+                "degree": 3
+            },
+            "element": "Agua"
+        },
+        {
+            "sign": "Sagitario",
+            "start": 240,
+            "end": 270,
+            "domicile": "Júpiter",
+            "detriment": "Mercurio",
+            "exaltation": null,
+            "fall": null,
+            "element": "Fuego"
+        },
+        {
+            "sign": "Capricornio",
+            "start": 270,
+            "end": 300,
+            "domicile": "Saturno",
+            "detriment": "Luna",
+            "exaltation": {
+                "planet": "Marte",
+                "degree": 28
+            },
+            "fall": {
+                "planet": "Júpiter",
+                "degree": 15
+            },
+            "element": "Tierra"
+        },
+        {
+            "sign": "Acuario",
+            "start": 300,
+            "end": 330,
+            "domicile": "Saturno",
+            "detriment": "Sol",
+            "exaltation": null,
+            "fall": null,
+            "element": "Aire"
+        },
+        {
+            "sign": "Piscis",
+            "start": 330,
+            "end": 360,
+            "domicile": "Júpiter",
+            "detriment": "Mercurio",
+            "exaltation": {
+                "planet": "Venus",
+                "degree": 27
+            },
+            "fall": {
+                "planet": "Mercurio",
+                "degree": 15
+            },
+            "element": "Agua"
+        }
+    ]
+}

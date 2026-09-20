@@ -1,0 +1,12 @@
+Revisión mediante navegador integrado de Codex, en servidor local 127.0.0.1:8766.
+
+335 filas del catálogo y 7 filas de selección inicial: correcto.
+Filtro Dub.: 31; Mult.: 14; operandos pendientes: 17; condiciones especiales: 45; fuentes no definidas: 9.
+Búsqueda Fortuna: 1; ficha de fila 111 con Ascendente + Luna − Sol y advertencia de nota ausente.
+Fuente primaria PA: 5; fuente secundaria HT: 4; nombre alternativo Daimon: 1.
+Categoría Weather: 12. Limpiar filtros restituye las 335 filas.
+Registro de errores del navegador: vacío.
+Inspección visual del documento en la vista estrecha del navegador integrado: encabezado, enlaces y conteos legibles.
+
+El intento previo de iniciar Edge con Playwright desde consola falló por permisos de lanzamiento (EPERM); las comprobaciones anteriores se hicieron con el navegador integrado. No se afirma haber ejecutado el script de consola ni pruebas automáticas de múltiples tamaños de pantalla.
+El HTML no contiene recursos externos: ver prueba 16. No se realizó una auditoría de tráfico de red del navegador.

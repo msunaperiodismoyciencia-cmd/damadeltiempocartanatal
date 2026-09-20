@@ -1,0 +1,37 @@
+{
+  "rows": 335,
+  "dubious": 31,
+  "multipleSources": 14,
+  "unconditionalReverse": 183,
+  "qualifiedReverse": 37,
+  "blankReverseColumn": 109,
+  "dayOnlyUnqualified": 1,
+  "nightOnlyUnqualified": 1,
+  "dayQualified": 1,
+  "nightQualified": 1,
+  "specialReverseRules": 41,
+  "nameOnlyAdditionalConditions": 4,
+  "specialConditionsTotal": 45,
+  "unsupportedOperandRows": 17,
+  "unsupportedOperandTypes": 12,
+  "rowsWithInformationMarker": 70,
+  "unresolvedSourceCodes": [
+    "AO",
+    "HT",
+    "M",
+    "RB"
+  ],
+  "rowsWithUnresolvedSources": 9,
+  "sources": 40,
+  "exactDuplicateNameGroups": 0,
+  "candidateVariantGroups": 59,
+  "sameOperandTripleGroups": 48,
+  "sameFormulaAndRuleGroups": 61,
+  "statuses": {
+    "pending_review": 238,
+    "dubious": 31,
+    "conditional": 39,
+    "multiple_sources": 11,
+    "unsupported_operand": 16
+  }
+}

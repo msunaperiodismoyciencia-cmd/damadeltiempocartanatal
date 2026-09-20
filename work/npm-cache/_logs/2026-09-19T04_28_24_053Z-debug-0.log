@@ -1,0 +1,94 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.11.0
+2 info using node@v24.14.1
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Users\Documents\Codex\2026-09-19\files-pasted-by-the-user-quiero\work\svg-render\.npmrc
+5 silly config load:file:C:\Users\Users\.npmrc
+6 silly config load:file:C:\Users\Users\Documents\Codex\2026-09-19\files-pasted-by-the-user-quiero\work\svg-render\etc\npmrc
+7 verbose title npm install @resvg/resvg-js@2.6.2
+8 verbose argv "install" "--prefix" "work\\svg-render" "--cache" "work\\npm-cache" "--ignore-scripts" "--no-audit" "--no-fund" "@resvg/resvg-js@2.6.2"
+9 verbose logfile logs-max:10 dir:C:\Users\Users\Documents\Codex\2026-09-19\files-pasted-by-the-user-quiero\work\npm-cache\_logs\2026-09-19T04_28_24_053Z-
+10 verbose logfile C:\Users\Users\Documents\Codex\2026-09-19\files-pasted-by-the-user-quiero\work\npm-cache\_logs\2026-09-19T04_28_24_053Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+13 silly idealTree buildDeps
+14 silly fetch manifest @resvg/resvg-js@2.6.2
+15 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js 686ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js set size:undefined disposed:false
+18 silly placeDep ROOT @resvg/resvg-js@2.6.2 OK for:  want: 2.6.2
+19 silly fetch manifest @resvg/resvg-js-darwin-x64@2.6.2
+20 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-darwin-x64 cache-miss
+21 silly fetch manifest @resvg/resvg-js-darwin-arm64@2.6.2
+22 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-darwin-arm64 cache-miss
+23 silly fetch manifest @resvg/resvg-js-android-arm64@2.6.2
+24 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-android-arm64 cache-miss
+25 silly fetch manifest @resvg/resvg-js-linux-x64-gnu@2.6.2
+26 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-x64-gnu cache-miss
+27 silly fetch manifest @resvg/resvg-js-linux-x64-musl@2.6.2
+28 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-x64-musl cache-miss
+29 silly fetch manifest @resvg/resvg-js-win32-x64-msvc@2.6.2
+30 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-win32-x64-msvc cache-miss
+31 silly fetch manifest @resvg/resvg-js-linux-arm64-gnu@2.6.2
+32 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm64-gnu cache-miss
+33 silly fetch manifest @resvg/resvg-js-win32-ia32-msvc@2.6.2
+34 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-win32-ia32-msvc cache-miss
+35 silly fetch manifest @resvg/resvg-js-android-arm-eabi@2.6.2
+36 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-android-arm-eabi cache-miss
+37 silly fetch manifest @resvg/resvg-js-linux-arm64-musl@2.6.2
+38 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm64-musl cache-miss
+39 silly fetch manifest @resvg/resvg-js-win32-arm64-msvc@2.6.2
+40 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-win32-arm64-msvc cache-miss
+41 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-darwin-x64 515ms (cache miss)
+42 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-darwin-x64 set size:undefined disposed:false
+43 silly fetch manifest @resvg/resvg-js-linux-arm-gnueabihf@2.6.2
+44 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm-gnueabihf cache-miss
+45 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-linux-x64-gnu 615ms (cache miss)
+46 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-x64-gnu set size:undefined disposed:false
+47 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-win32-arm64-msvc 621ms (cache miss)
+48 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-win32-arm64-msvc set size:undefined disposed:false
+49 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-android-arm-eabi 624ms (cache miss)
+50 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-android-arm-eabi set size:undefined disposed:false
+51 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm64-gnu 626ms (cache miss)
+52 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm64-gnu set size:undefined disposed:false
+53 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-win32-x64-msvc 626ms (cache miss)
+54 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-win32-x64-msvc set size:undefined disposed:false
+55 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm64-musl 665ms (cache miss)
+56 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm64-musl set size:undefined disposed:false
+57 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-linux-x64-musl 678ms (cache miss)
+58 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-x64-musl set size:undefined disposed:false
+59 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-android-arm64 686ms (cache miss)
+60 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-android-arm64 set size:undefined disposed:false
+61 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-darwin-arm64 710ms (cache miss)
+62 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-darwin-arm64 set size:undefined disposed:false
+63 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-win32-ia32-msvc 814ms (cache miss)
+64 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-win32-ia32-msvc set size:undefined disposed:false
+65 http fetch GET 200 https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm-gnueabihf 506ms (cache miss)
+66 silly packumentCache full:https://registry.npmjs.org/@resvg%2fresvg-js-linux-arm-gnueabihf set size:undefined disposed:false
+67 silly placeDep ROOT @resvg/resvg-js-android-arm-eabi@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+68 silly placeDep ROOT @resvg/resvg-js-android-arm64@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+69 silly placeDep ROOT @resvg/resvg-js-darwin-arm64@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+70 silly placeDep ROOT @resvg/resvg-js-darwin-x64@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+71 silly placeDep ROOT @resvg/resvg-js-linux-arm-gnueabihf@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+72 silly placeDep ROOT @resvg/resvg-js-linux-arm64-gnu@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+73 silly placeDep ROOT @resvg/resvg-js-linux-arm64-musl@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+74 silly placeDep ROOT @resvg/resvg-js-linux-x64-gnu@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+75 silly placeDep ROOT @resvg/resvg-js-linux-x64-musl@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+76 silly placeDep ROOT @resvg/resvg-js-win32-arm64-msvc@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+77 silly placeDep ROOT @resvg/resvg-js-win32-ia32-msvc@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+78 silly placeDep ROOT @resvg/resvg-js-win32-x64-msvc@2.6.2 OK for: @resvg/resvg-js@2.6.2 want: 2.6.2
+79 silly reify moves {}
+80 http cache @resvg/resvg-js@https://registry.npmjs.org/@resvg/resvg-js/-/resvg-js-2.6.2.tgz 0ms (cache hit)
+81 http cache @resvg/resvg-js-win32-x64-msvc@https://registry.npmjs.org/@resvg/resvg-js-win32-x64-msvc/-/resvg-js-win32-x64-msvc-2.6.2.tgz 0ms (cache hit)
+82 silly tarball no local data for @resvg/resvg-js@https://registry.npmjs.org/@resvg/resvg-js/-/resvg-js-2.6.2.tgz. Extracting by manifest.
+83 silly tarball no local data for @resvg/resvg-js-win32-x64-msvc@https://registry.npmjs.org/@resvg/resvg-js-win32-x64-msvc/-/resvg-js-win32-x64-msvc-2.6.2.tgz. Extracting by manifest.
+84 http fetch GET 200 https://registry.npmjs.org/@resvg/resvg-js/-/resvg-js-2.6.2.tgz 230ms (cache miss)
+85 http fetch GET 200 https://registry.npmjs.org/@resvg/resvg-js-win32-x64-msvc/-/resvg-js-win32-x64-msvc-2.6.2.tgz 366ms (cache miss)
+86 silly ADD node_modules/@resvg/resvg-js-win32-x64-msvc
+87 silly ADD node_modules/@resvg/resvg-js
+88 verbose cwd C:\Users\Users\Documents\Codex\2026-09-19\files-pasted-by-the-user-quiero
+89 verbose os Windows_NT 10.0.26200
+90 verbose node v24.14.1
+91 verbose npm  v11.11.0
+92 verbose exit 0
+93 info ok

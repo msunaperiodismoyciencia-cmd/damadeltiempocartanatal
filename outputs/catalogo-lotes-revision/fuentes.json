@@ -1,0 +1,429 @@
+{
+  "version": "0.1.0-review.1",
+  "sourceDocument": "lusby-astroseek-traditional-pdf",
+  "entries": {
+    "AL": {
+      "code": "AL",
+      "name": "Anthony Louis",
+      "references": [
+        "Horary Astrology Plain & Simple.Llewellyn, Woodbury, MN, 1998."
+      ],
+      "rawEntry": "Anthony Louis\n• Horary Astrology Plain & Simple.Llewellyn, Woodbury, MN, 1998.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "B": {
+      "code": "B",
+      "name": "Al-Bīrūnī",
+      "references": [
+        "The Book of Instruction in the Elements of the Art of Astrology, trans. and ed. R. Ramsay Wright. Luzac & co., London, 1934.",
+        "占星術教程の書 [Textbook of Astrology], trans. Keiji Yamamoto. Kyoto Bulletin of Islamic Area Studies, 6, pp.467-539. Accessed June 7, 2019. https://www.asafas.kyoto-u.ac.jp/kias/pdf/kb6/26biruni.pdf"
+      ],
+      "rawEntry": "Al-Bīrūnī\n• The Book of Instruction in the Elements of the Art of Astrology, trans. and ed. R. Ramsay Wright. Luzac & co., London, 1934.\n• 占星術教程の書 [Textbook of Astrology], trans. Keiji Yamamoto. Kyoto Bulletin of Islamic Area Studies, 6, pp.467-539. Accessed June 7, 2019.\nhttps://www.asafas.kyoto-u.ac.jp/kias/pdf/kb6/26biruni.pdf",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "BA": {
+      "code": "BA",
+      "name": "Book of Aristotle (al-Andarzaghar)",
+      "references": [
+        "The Book of Aristotle, in Persian Nativities I, trans. and ed. Benjamin N. Dykes. Cazimi Press, Minneapolis, MN, 2009"
+      ],
+      "rawEntry": "Book of Aristotle (al-Andarzaghar)\n• The Book of Aristotle, in Persian Nativities I, trans. and ed. Benjamin N. Dykes. Cazimi Press, Minneapolis, MN, 2009",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "BW": {
+      "code": "BW",
+      "name": "Ibn Ezra, Beginning of Wisdom",
+      "references": [
+        "Abraham Ibn Ezra’s Introductions to Astrology, trans. and ed. Shlomo Sela. Brill, Leiden, 2017."
+      ],
+      "rawEntry": "Ibn Ezra, Beginning of Wisdom\n• Abraham Ibn Ezra’s Introductions to Astrology, trans. and ed. Shlomo Sela. Brill, Leiden, 2017.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "DS": {
+      "code": "DS",
+      "name": "Dorotheus of Sidon",
+      "references": [
+        "Carmen Astrologicum: The 'Umar al-Tabari Translation, trans. and ed. Benjamin N. Dykes, trans. Eduardo Gramaglia. Cazimi Press, Minneapolis, MN, 2017."
+      ],
+      "rawEntry": "Dorotheus of Sidon\n• Carmen Astrologicum: The 'Umar al-Tabari Translation, trans. and ed. Benjamin N. Dykes, trans. Eduardo Gramaglia. Cazimi Press, Minneapolis, MN, 2017.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "FM": {
+      "code": "FM",
+      "name": "Firmicus Maternus",
+      "references": [
+        "Mathesis, trans. James H. Holden. American Federation of Astrologers, Tempe, AZ, 2011."
+      ],
+      "rawEntry": "Firmicus Maternus\n• Mathesis, trans. James H. Holden. American Federation of Astrologers, Tempe, AZ, 2011.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "GB": {
+      "code": "GB",
+      "name": "Guido Bonatti",
+      "references": [
+        "Bonatti on Lots: Guido Bonatti's Book of Astronomy, Treatise 8.2: On Lots, trans. and ed. Benjamin N. Dykes. Cazimi Press, Minneapolis, MN, 2010."
+      ],
+      "rawEntry": "Guido Bonatti\n• Bonatti on Lots: Guido Bonatti's Book of Astronomy, Treatise 8.2: On Lots, trans. and ed. Benjamin N. Dykes. Cazimi Press, Minneapolis, MN, 2010.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "GI": {
+      "code": "GI",
+      "name": "Abū Maʿshar, Great Introduction",
+      "references": [
+        "The Great Introduction to Astrology, Volume 1, trans. and ed. Keiji Yamamoto and Charles S. F. Burnett. Brill, Leiden, 2019.",
+        "The Great introduction to the Science of the Judgements of the Stars, trans. and ed. Benjamin N. Dykes. Cazimi press, Minneapolis, MN, 2021."
+      ],
+      "rawEntry": "Abū Maʿshar, Great Introduction\n• The Great Introduction to Astrology, Volume 1, trans. and ed. Keiji Yamamoto and Charles S. F. Burnett. Brill, Leiden, 2019.\n• The Great introduction to the Science of the Judgements of the Stars, trans. and ed. Benjamin N. Dykes. Cazimi press, Minneapolis, MN, 2021.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "HC": {
+      "code": "HC",
+      "name": "Hermann of Carinthia",
+      "references": [
+        "Hermann of Carinthia, The Search of the Heart, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011."
+      ],
+      "rawEntry": "Hermann of Carinthia\n• Hermann of Carinthia, The Search of the Heart, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "JZ": {
+      "code": "JZ",
+      "name": "Ibn Ezra, Judgments of the Zodiacal Signs",
+      "references": [
+        "Abraham Ibn Ezra’s Introductions to Astrology, trans. and ed. Shlomo Sela. Brill, Leiden, 2017."
+      ],
+      "rawEntry": "Ibn Ezra, Judgments of the Zodiacal Signs\n• Abraham Ibn Ezra’s Introductions to Astrology, trans. and ed. Shlomo Sela. Brill, Leiden, 2017.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "K": {
+      "code": "K",
+      "name": "Al-Kindī",
+      "references": [
+        "Letter on Air and Rains, in Astrology of the World I: The Ptolemaic Inheritance, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2013."
+      ],
+      "rawEntry": "Al-Kindī\n• Letter on Air and Rains, in Astrology of the World I: The Ptolemaic Inheritance, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2013.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "LJ": {
+      "code": "LJ",
+      "name": "Lingtai Jing (Dorotheus, Chinese translation)",
+      "references": [
+        "Kotyk, Jeffrey. “The Sinicization of Indo-Iranian Astrology in Medieval China.” Sino-Platonic Papers no. 282 (2018). https://sino-platonic.org/complete/spp282_Indo- Iranian_Astrology_China.pdf"
+      ],
+      "rawEntry": "Lingtai Jing (Dorotheus, Chinese translation)\n• Kotyk, Jeffrey. “The Sinicization of Indo-Iranian Astrology in Medieval China.” Sino-Platonic Papers no. 282 (2018). https://sino-platonic.org/complete/spp282_Indo-\nIranian_Astrology_China.pdf",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "LK": {
+      "code": "LK",
+      "name": "Lynn Koiner",
+      "references": [
+        "\"The Point of Sonia - A Point of Personal Transformation\" https://www.lynnkoiner.com/the-point-of-sonia-a-point-of-personal-transformation/"
+      ],
+      "rawEntry": "Lynn Koiner\n• \"The Point of Sonia - A Point of Personal Transformation\" https://www.lynnkoiner.com/the-point-of-sonia-a-point-of-personal-transformation/",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "MSL": {
+      "code": "MSL",
+      "name": "Laurentianus",
+      "references": [
+        "László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799",
+        "Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.",
+        "Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012."
+      ],
+      "rawEntry": "Laurentianus\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "MSP": {
+      "code": "MSP",
+      "name": "Paris, BNF, Grec 2501",
+      "references": [
+        "Paris, Bibliotèque Nationale de France, Grec 2501, fols. 197v-199r. https://gallica.bnf.fr/ark:/12148/btv1b107234607/f207"
+      ],
+      "rawEntry": "Paris, BNF, Grec 2501\n• Paris, Bibliotèque Nationale de France, Grec 2501, fols. 197v-199r. https://gallica.bnf.fr/ark:/12148/btv1b107234607/f207",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "MSR": {
+      "code": "MSR",
+      "name": "Manuscript R",
+      "references": [
+        "László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799"
+      ],
+      "rawEntry": "Manuscript R\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "MSV": {
+      "code": "MSV",
+      "name": "Manuscript V",
+      "references": [
+        "László, Levente. \"Another Appendix to Paulus 21/Olympiodorus 14 on the Lots.\" Horoi Project. https://www.patreon.com/posts/another-appendix-55759238"
+      ],
+      "rawEntry": "Manuscript V\n• László, Levente. \"Another Appendix to Paulus 21/Olympiodorus 14 on the Lots.\" Horoi Project. https://www.patreon.com/posts/another-appendix-55759238",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "NDV": {
+      "code": "NDV",
+      "name": "Nicholas de Vore",
+      "references": [
+        "Encyclopedia of Astrology. Philosophical Library, New York, NY, 1947."
+      ],
+      "rawEntry": "Nicholas de Vore\n• Encyclopedia of Astrology. Philosophical Library, New York, NY, 1947.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "O1": {
+      "code": "O1",
+      "name": "Olympiodorus 1st list",
+      "references": [
+        "László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799",
+        "Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.",
+        "Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012."
+      ],
+      "rawEntry": "Olympiodorus 1st list\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "O2": {
+      "code": "O2",
+      "name": "Olympiodorus 2nd list",
+      "references": [
+        "László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799",
+        "Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.",
+        "Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012."
+      ],
+      "rawEntry": "Olympiodorus 2nd list\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012.",
+      "sourceSection": "Sources",
+      "sourcePage": 1,
+      "manuscriptNotesRaw": "• 1A, 2A - First version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)\n• 1B, 2B - Second version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)\n• 1L, 2L - Lists in manuscript L (Florence, BML, Plut. 28. 34)"
+    },
+    "PA": {
+      "code": "PA",
+      "name": "Paulus of Alexandria",
+      "references": [
+        "Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.",
+        "\"Paulus, Introduction to Astrology - Chapter 21,\" trans. Levente László, Horoi Project. https://www.patreon.com/posts/paulus-to-21-51126140"
+      ],
+      "rawEntry": "Paulus of Alexandria\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• \"Paulus, Introduction to Astrology - Chapter 21,\" trans. Levente László, Horoi Project. https://www.patreon.com/posts/paulus-to-21-51126140",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "PD": {
+      "code": "PD",
+      "name": "Pseudo-Dorotheus",
+      "references": [
+        "Hermann of Carinthia, The Search of the Heart, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.",
+        "Hugo of Santalla, The Book of the Nine Judges, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011."
+      ],
+      "rawEntry": "Pseudo-Dorotheus\n• Hermann of Carinthia, The Search of the Heart, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.\n• Hugo of Santalla, The Book of the Nine Judges, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "Q": {
+      "code": "Q",
+      "name": "Al-Qabīṣī",
+      "references": [
+        "The Introduction to Astrology, trans. and ed. Charles Burnett, Keiji Yamamoto & Michio Yano. Warburg, London, 2004."
+      ],
+      "rawEntry": "Al-Qabīṣī\n• The Introduction to Astrology, trans. and ed. Charles Burnett, Keiji Yamamoto & Michio Yano. Warburg, London, 2004.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "QL": {
+      "code": "QL",
+      "name": "Al-Qabīṣī (Latin)",
+      "references": [
+        "The Introduction to Astrology, trans. and ed. Charles Burnett, Keiji Yamamoto & Michio Yano. Warburg, London, 2004."
+      ],
+      "rawEntry": "Al-Qabīṣī (Latin)\n• The Introduction to Astrology, trans. and ed. Charles Burnett, Keiji Yamamoto & Michio Yano. Warburg, London, 2004.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "R": {
+      "code": "R",
+      "name": "Al-Rijāl",
+      "references": [
+        "Book of the Skilled, Book VIII, in Astrology of the World II: Revolutions & History, trans. And ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2014.",
+        "El Libro Conplido en los Iudizios de las Estrellas, 8 vols., trans and ed. Carrión, Jose Luis et al. Navarro & Navarro, Zaragoza, 1988/1997."
+      ],
+      "rawEntry": "Al-Rijāl\n• Book of the Skilled, Book VIII, in Astrology of the World II: Revolutions & History, trans. And ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2014.\n• El Libro Conplido en los Iudizios de las Estrellas, 8 vols., trans and ed. Carrión, Jose Luis et al. Navarro & Navarro, Zaragoza, 1988/1997.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "RD": {
+      "code": "RD",
+      "name": "Abū Maʿshar, Book of Religions and Dynasties",
+      "references": [
+        "The Book of Religions and Dynasties, trans. and ed. Keiji Yamamoto and Charles S. F Burnett. Brill, Leiden, 1999."
+      ],
+      "rawEntry": "Abū Maʿshar, Book of Religions and Dynasties\n• The Book of Religions and Dynasties, trans. and ed. Keiji Yamamoto and Charles S. F Burnett. Brill, Leiden, 1999.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "RE": {
+      "code": "RE",
+      "name": "\"Rhetorius the Egyptian\"",
+      "references": [
+        "Astrological Compendium, trans. and ed. James Herschel Holden. American Federation of Astrologers, Tempe, AZ, 2009."
+      ],
+      "rawEntry": "\"Rhetorius the Egyptian\"\n• Astrological Compendium, trans. and ed. James Herschel Holden. American Federation of Astrologers, Tempe, AZ, 2009.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "RHG": {
+      "code": "RHG",
+      "name": "Robert Hurzt Granite",
+      "references": [
+        "The Fortunes of Astrology. ACS, San Diego, CA, 1981.",
+        "Sources Cited in Granite:",
+        "DB: Don Borkowski",
+        "EA: Elizabeth Aldrich",
+        "IGJ: Ivy Goldstein-Jacobson",
+        "MEJ: Mark Edmund Jones",
+        "PG: Paul Grell",
+        "ZD: Zipporah Dobyns"
+      ],
+      "rawEntry": "Robert Hurzt Granite\n• The Fortunes of Astrology. ACS, San Diego, CA, 1981.\n• Sources Cited in Granite:\n• DB: Don Borkowski\n• EA: Elizabeth Aldrich\n• IGJ: Ivy Goldstein-Jacobson\n• MEJ: Mark Edmund Jones\n• PG: Paul Grell\n• ZD: Zipporah Dobyns",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "SB": {
+      "code": "SB",
+      "name": "Sahl ibn Bishr",
+      "references": [
+        "On Nativities, in The Astrological Works of Sahl B. Bishr, Volume 1: Principles, Elections, Questions and Nativities, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2019."
+      ],
+      "rawEntry": "Sahl ibn Bishr\n• On Nativities, in The Astrological Works of Sahl B. Bishr, Volume 1: Principles, Elections, Questions and Nativities, trans. and ed. Benjamin N. Dykes. Cazimi,\nMinneapolis, MN, 2019.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "SH": {
+      "code": "SH",
+      "name": "Abū Maʿshar (attrib.), Scitio Horam Introitus",
+      "references": [
+        "Scito Horam Introitus, in Astrology of the World II: Revolutions & History, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2014"
+      ],
+      "rawEntry": "Abū Maʿshar (attrib.), Scitio Horam Introitus\n• Scito Horam Introitus, in Astrology of the World II: Revolutions & History, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2014",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "TE": {
+      "code": "TE",
+      "name": "Theophilus of Edessa",
+      "references": [
+        "Astrological Works of Theophilus of Edessa, trans. Eduardo J. Gramaglia, ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2017."
+      ],
+      "rawEntry": "Theophilus of Edessa\n• Astrological Works of Theophilus of Edessa, trans. Eduardo J. Gramaglia, ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2017.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "UT": {
+      "code": "UT",
+      "name": "ʿUmar al-Ṭabarī",
+      "references": [
+        "Book of Questions of the Judgments of the Stars. In Hugo of Santalla, The Book of the Nine Judges, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011."
+      ],
+      "rawEntry": "ʿUmar al-Ṭabarī\n• Book of Questions of the Judgments of the Stars. In Hugo of Santalla, The Book of the Nine Judges, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN,\n2011.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "VV": {
+      "code": "VV",
+      "name": "Vettius Valens",
+      "references": [
+        "The Anthologies, trans. Mark Riley. https://www.csus.edu/indiv/r/rileymt/Vettius%20Valens%20entire.pdf"
+      ],
+      "rawEntry": "Vettius Valens\n• The Anthologies, trans. Mark Riley. https://www.csus.edu/indiv/r/rileymt/Vettius%20Valens%20entire.pdf",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "VR": {
+      "code": "VR",
+      "name": "Vivian Robson",
+      "references": [
+        "A Student's Text-Book of Astrology (1922). Astrology Classics, Bel Air, MD, 2010."
+      ],
+      "rawEntry": "Vivian Robson\n• A Student's Text-Book of Astrology (1922). Astrology Classics, Bel Air, MD, 2010.",
+      "sourceSection": "Sources",
+      "sourcePage": 1
+    },
+    "DB": {
+      "code": "DB",
+      "name": "Don Borkowski",
+      "references": [],
+      "citedIn": "RHG",
+      "sourceSection": "Sources / RHG / Sources Cited in Granite",
+      "sourcePage": 1
+    },
+    "EA": {
+      "code": "EA",
+      "name": "Elizabeth Aldrich",
+      "references": [],
+      "citedIn": "RHG",
+      "sourceSection": "Sources / RHG / Sources Cited in Granite",
+      "sourcePage": 1
+    },
+    "IGJ": {
+      "code": "IGJ",
+      "name": "Ivy Goldstein-Jacobson",
+      "references": [],
+      "citedIn": "RHG",
+      "sourceSection": "Sources / RHG / Sources Cited in Granite",
+      "sourcePage": 1
+    },
+    "MEJ": {
+      "code": "MEJ",
+      "name": "Mark Edmund Jones",
+      "references": [],
+      "citedIn": "RHG",
+      "sourceSection": "Sources / RHG / Sources Cited in Granite",
+      "sourcePage": 1
+    },
+    "PG": {
+      "code": "PG",
+      "name": "Paul Grell",
+      "references": [],
+      "citedIn": "RHG",
+      "sourceSection": "Sources / RHG / Sources Cited in Granite",
+      "sourcePage": 1
+    },
+    "ZD": {
+      "code": "ZD",
+      "name": "Zipporah Dobyns",
+      "references": [],
+      "citedIn": "RHG",
+      "sourceSection": "Sources / RHG / Sources Cited in Granite",
+      "sourcePage": 1
+    }
+  },
+  "manuscriptNotes": {
+    "1A": "First version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)",
+    "2A": "First version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)",
+    "1B": "Second version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)",
+    "2B": "Second version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)",
+    "1L": "Lists in manuscript L (Florence, BML, Plut. 28. 34)",
+    "2L": "Lists in manuscript L (Florence, BML, Plut. 28. 34)"
+  },
+  "unresolvedCodes": [
+    "AO",
+    "HT",
+    "M",
+    "RB"
+  ],
+  "rawSourceSection": "AL:\nAnthony Louis\n• Horary Astrology Plain & Simple.Llewellyn, Woodbury, MN, 1998.\nB:\nAl-Bīrūnī\n• The Book of Instruction in the Elements of the Art of Astrology, trans. and ed. R. Ramsay Wright. Luzac & co., London, 1934.\n• 占星術教程の書 [Textbook of Astrology], trans. Keiji Yamamoto. Kyoto Bulletin of Islamic Area Studies, 6, pp.467-539. Accessed June 7, 2019.\nhttps://www.asafas.kyoto-u.ac.jp/kias/pdf/kb6/26biruni.pdf\nBA:\nBook of Aristotle (al-Andarzaghar)\n• The Book of Aristotle, in Persian Nativities I, trans. and ed. Benjamin N. Dykes. Cazimi Press, Minneapolis, MN, 2009\nBW:\nIbn Ezra, Beginning of Wisdom\n• Abraham Ibn Ezra’s Introductions to Astrology, trans. and ed. Shlomo Sela. Brill, Leiden, 2017.\nDS:\nDorotheus of Sidon\n• Carmen Astrologicum: The 'Umar al-Tabari Translation, trans. and ed. Benjamin N. Dykes, trans. Eduardo Gramaglia. Cazimi Press, Minneapolis, MN, 2017.\nFM:\nFirmicus Maternus\n• Mathesis, trans. James H. Holden. American Federation of Astrologers, Tempe, AZ, 2011.\nGB:\nGuido Bonatti\n• Bonatti on Lots: Guido Bonatti's Book of Astronomy, Treatise 8.2: On Lots, trans. and ed. Benjamin N. Dykes. Cazimi Press, Minneapolis, MN, 2010.\nGI:\nAbū Maʿshar, Great Introduction\n• The Great Introduction to Astrology, Volume 1, trans. and ed. Keiji Yamamoto and Charles S. F. Burnett. Brill, Leiden, 2019.\n• The Great introduction to the Science of the Judgements of the Stars, trans. and ed. Benjamin N. Dykes. Cazimi press, Minneapolis, MN, 2021.\nHC:\nHermann of Carinthia\n• Hermann of Carinthia, The Search of the Heart, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.\nJZ:\nIbn Ezra, Judgments of the Zodiacal Signs\n• Abraham Ibn Ezra’s Introductions to Astrology, trans. and ed. Shlomo Sela. Brill, Leiden, 2017.\nK:\nAl-Kindī\n• Letter on Air and Rains, in Astrology of the World I: The Ptolemaic Inheritance, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2013.\nLJ:\nLingtai Jing (Dorotheus, Chinese translation)\n• Kotyk, Jeffrey. “The Sinicization of Indo-Iranian Astrology in Medieval China.” Sino-Platonic Papers no. 282 (2018). https://sino-platonic.org/complete/spp282_Indo-\nIranian_Astrology_China.pdf\nLK:\nLynn Koiner\n• \"The Point of Sonia - A Point of Personal Transformation\" https://www.lynnkoiner.com/the-point-of-sonia-a-point-of-personal-transformation/\nMSL:\nLaurentianus\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012.\nMSP:\nParis, BNF, Grec 2501\n• Paris, Bibliotèque Nationale de France, Grec 2501, fols. 197v-199r. https://gallica.bnf.fr/ark:/12148/btv1b107234607/f207\nMSR:\nManuscript R\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\nMSV:\nManuscript V\n• László, Levente. \"Another Appendix to Paulus 21/Olympiodorus 14 on the Lots.\" Horoi Project. https://www.patreon.com/posts/another-appendix-55759238\nNDV:\nNicholas de Vore\n• Encyclopedia of Astrology. Philosophical Library, New York, NY, 1947.\nO1:\nOlympiodorus 1st list\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012.\nO2:\nOlympiodorus 2nd list\n• László, Levente. \"Appendices to Olympiodorus’s Lecture 14.\" Horoi Project. https://www.patreon.com/posts/appendices-to-14-52144799\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• Paul of Alexandria: Introduction to Astrology, trans. James H. Holden. American Federation of strologers, Tempe, AZ, 2012.\nOlympiodorus Source Notes\n• 1A, 2A - First version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)\n• 1B, 2B - Second version of lists in primary manuscript (Vienna, ÖNB, phil. gr. 115)\n• 1L, 2L - Lists in manuscript L (Florence, BML, Plut. 28. 34)\nPA:\nPaulus of Alexandria\n• Late Classical Astrology: Paulus Alexandrinus and Olympiodorus, trans. Dorian Greenbaum. ARHAT, Reston, VA, 2001.\n• \"Paulus, Introduction to Astrology - Chapter 21,\" trans. Levente László, Horoi Project. https://www.patreon.com/posts/paulus-to-21-51126140\nPD:\nPseudo-Dorotheus\n• Hermann of Carinthia, The Search of the Heart, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.\n• Hugo of Santalla, The Book of the Nine Judges, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2011.\nQ:\nAl-Qabīṣī\n• The Introduction to Astrology, trans. and ed. Charles Burnett, Keiji Yamamoto & Michio Yano. Warburg, London, 2004.\nQL:\nAl-Qabīṣī (Latin)\n• The Introduction to Astrology, trans. and ed. Charles Burnett, Keiji Yamamoto & Michio Yano. Warburg, London, 2004.\nR:\nAl-Rijāl\n• Book of the Skilled, Book VIII, in Astrology of the World II: Revolutions & History, trans. And ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2014.\n• El Libro Conplido en los Iudizios de las Estrellas, 8 vols., trans and ed. Carrión, Jose Luis et al. Navarro & Navarro, Zaragoza, 1988/1997.\nRD:\nAbū Maʿshar, Book of Religions and Dynasties\n• The Book of Religions and Dynasties, trans. and ed. Keiji Yamamoto and Charles S. F Burnett. Brill, Leiden, 1999.\nRE:\n\"Rhetorius the Egyptian\"\n• Astrological Compendium, trans. and ed. James Herschel Holden. American Federation of Astrologers, Tempe, AZ, 2009.\nRHG:\nRobert Hurzt Granite\n• The Fortunes of Astrology. ACS, San Diego, CA, 1981.\n• Sources Cited in Granite:\n• DB: Don Borkowski\n• EA: Elizabeth Aldrich\n• IGJ: Ivy Goldstein-Jacobson\n• MEJ: Mark Edmund Jones\n• PG: Paul Grell\n• ZD: Zipporah Dobyns\nSB:\nSahl ibn Bishr\n• On Nativities, in The Astrological Works of Sahl B. Bishr, Volume 1: Principles, Elections, Questions and Nativities, trans. and ed. Benjamin N. Dykes. Cazimi,\nMinneapolis, MN, 2019.\nSH:\nAbū Maʿshar (attrib.), Scitio Horam Introitus\n• Scito Horam Introitus, in Astrology of the World II: Revolutions & History, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2014\nTE:\nTheophilus of Edessa\n• Astrological Works of Theophilus of Edessa, trans. Eduardo J. Gramaglia, ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN, 2017.\nUT:\nʿUmar al-Ṭabarī\n• Book of Questions of the Judgments of the Stars. In Hugo of Santalla, The Book of the Nine Judges, trans. and ed. Benjamin N. Dykes. Cazimi, Minneapolis, MN,\n2011.\nVV:\nVettius Valens\n• The Anthologies, trans. Mark Riley. https://www.csus.edu/indiv/r/rileymt/Vettius%20Valens%20entire.pdf\nVR:\nVivian Robson\n• A Student's Text-Book of Astrology (1922). Astrology Classics, Bel Air, MD, 2010.",
+  "transcriptionNotice": "Se conservan grafías y errores impresos. Referencias normalizadas solo en espacios; rawEntry mantiene saltos de línea."
+}

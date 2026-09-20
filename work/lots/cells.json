@@ -1,0 +1,7372 @@
+[
+  {
+    "row": 1,
+    "name": "Accusation (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Accusation (Firmicus)",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      504.3332921461127,
+      1356.0116194643228,
+      526.4999570025011
+    ]
+  },
+  {
+    "row": 2,
+    "name": "Activity (Olympiodorus 1)",
+    "alt": "",
+    "raw": [
+      "Activity (Olympiodorus 1)",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      526.4999570025011,
+      1356.0116194643228,
+      562.4999540625013
+    ]
+  },
+  {
+    "row": 3,
+    "name": "Activity (Olympiodorus 2)",
+    "alt": "",
+    "raw": [
+      "Activity (Olympiodorus 2)",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "O2",
+      "MSR, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      562.4999540625013,
+      1356.0116194643228,
+      584.4999522658345
+    ]
+  },
+  {
+    "row": 4,
+    "name": "Activity (Rhetorius)",
+    "alt": "Work; Mastery; Managers, Viziers & Authorities",
+    "raw": [
+      "Activity (Rhetorius)\nWork; Mastery; Managers, Viziers\nⓘ\n& Authorities",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "RE",
+      "MSL, BA, SB, GI",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      584.4999522658345,
+      1356.0116194643228,
+      638.4999478558348
+    ]
+  },
+  {
+    "row": 5,
+    "name": "Adultery 1",
+    "alt": "",
+    "raw": [
+      "Adultery 1",
+      "Asc",
+      "Mars",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      638.4999478558348,
+      1356.0116194643228,
+      659.4999461408333
+    ]
+  },
+  {
+    "row": 6,
+    "name": "Adultery 2",
+    "alt": "",
+    "raw": [
+      "Adultery 2",
+      "Asc",
+      "Venus",
+      "Mars",
+      "MSP",
+      "MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      659.4999461408333,
+      1356.0116194643228,
+      680.4999444258356
+    ]
+  },
+  {
+    "row": 7,
+    "name": "Agriculture",
+    "alt": "",
+    "raw": [
+      "Agriculture",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "GI",
+      "Q",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      680.4999444258356,
+      1356.0116194643228,
+      702.4999426291688
+    ]
+  },
+  {
+    "row": 8,
+    "name": "Air and Wind",
+    "alt": "Rain",
+    "raw": [
+      "Air and Wind\nⓘ\nRain",
+      "Asc",
+      "Ruler\nMercury",
+      "Mercury",
+      "UT",
+      "B, R",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      702.4999426291688,
+      1356.0116194643228,
+      740.4999395258346
+    ]
+  },
+  {
+    "row": 9,
+    "name": "Air and Wind (Mercury in Virgo)",
+    "alt": "Rain",
+    "raw": [
+      "Air and Wind (Mercury in\nVirgo)\nⓘ\nRain",
+      "Asc",
+      "Mercury",
+      "0 Virgo",
+      "UT",
+      "",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      740.4999395258346,
+      1356.0116194643228,
+      795.4999350341677
+    ]
+  },
+  {
+    "row": 10,
+    "name": "Air and Wind (Mercury in Gemini)",
+    "alt": "Rain",
+    "raw": [
+      "Air and Wind (Mercury in\nGemini)\nⓘ\nRain",
+      "Asc",
+      "Mercury",
+      "0 Gemini",
+      "UT",
+      "",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      795.4999350341677,
+      1356.0116194643228,
+      849.499930624168
+    ]
+  },
+  {
+    "row": 11,
+    "name": "Animals",
+    "alt": "",
+    "raw": [
+      "Animals",
+      "Asc",
+      "12th",
+      "Ruler 12th",
+      "JZ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      849.499930624168,
+      1356.0116194643228,
+      870.4999289091684
+    ]
+  },
+  {
+    "row": 12,
+    "name": "Apricots",
+    "alt": "",
+    "raw": [
+      "Apricots",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      870.4999289091684,
+      1356.0116194643228,
+      907.4999258875014
+    ]
+  },
+  {
+    "row": 13,
+    "name": "Association 1",
+    "alt": "",
+    "raw": [
+      "Association 1",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      907.4999258875014,
+      1356.0116194643228,
+      928.4999241725018
+    ]
+  },
+  {
+    "row": 14,
+    "name": "Association 2",
+    "alt": "",
+    "raw": [
+      "Association 2",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      928.4999241725018,
+      1356.0116194643228,
+      949.4999224575004
+    ]
+  },
+  {
+    "row": 15,
+    "name": "Association 3",
+    "alt": "",
+    "raw": [
+      "Association 3",
+      "Asc",
+      "Jupiter",
+      "Mercury",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      949.4999224575004,
+      1356.0116194643228,
+      971.4999206608354
+    ]
+  },
+  {
+    "row": 16,
+    "name": "Authority",
+    "alt": "",
+    "raw": [
+      "Authority",
+      "Asc",
+      "Sun",
+      "Mars",
+      "O1",
+      "MSP",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      971.4999206608354,
+      1356.0116194643228,
+      992.4999189458358
+    ]
+  },
+  {
+    "row": 17,
+    "name": "Authority & Work",
+    "alt": "",
+    "raw": [
+      "Authority & Work",
+      "Asc",
+      "Moon",
+      "Saturn",
+      "SB",
+      "GI, Q, R",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      992.4999189458358,
+      1356.0116194643228,
+      1014.499917149169
+    ]
+  },
+  {
+    "row": 18,
+    "name": "Authority, Aid & Conquering",
+    "alt": "",
+    "raw": [
+      "Authority, Aid & Conquering",
+      "Asc",
+      "Saturn",
+      "Sun",
+      "SB",
+      "GI, RD, Q, R",
+      "reverse",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1014.499917149169,
+      1356.0116194643228,
+      1050.4999142091692
+    ]
+  },
+  {
+    "row": 19,
+    "name": "Authority, Aid & Conquering (Alt)",
+    "alt": "",
+    "raw": [
+      "Authority, Aid & Conquering\n(Alt)",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "GI",
+      "R",
+      "reverse",
+      "Medieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      1050.4999142091692,
+      1356.0116194643228,
+      1087.4999111875013
+    ]
+  },
+  {
+    "row": 20,
+    "name": "Barley",
+    "alt": "",
+    "raw": [
+      "Barley",
+      "Asc",
+      "Jupiter",
+      "Moon",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1087.4999111875013,
+      1356.0116194643228,
+      1124.4999081658352
+    ]
+  },
+  {
+    "row": 21,
+    "name": "Basis (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Basis (Firmicus)",
+      "Asc",
+      "Fortune",
+      "Spirit",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1124.4999081658352,
+      1356.0116194643228,
+      1145.4999064508347
+    ]
+  },
+  {
+    "row": 22,
+    "name": "Basis (Valens)",
+    "alt": "Foundation, Firmness, Survival, Support of Ascendant",
+    "raw": [
+      "Basis (Valens)\nFoundation, Firmness, Survival,\nⓘ\nSupport of Ascendant",
+      "Asc",
+      "Spirit",
+      "Fortune",
+      "VV",
+      "O1, MSL, MSP, MSV, GI, Q, R",
+      "reverse\n(MSL, MSP,\nMSV, GI, Q,\nR), always\nbelow\nhorizon (VV)",
+      "Hellenistic,\nMedieval",
+      "1L,\n1B"
+    ],
+    "bbox": [
+      437.98252237096,
+      1145.4999064508347,
+      1356.0116194643228,
+      1243.4998984475014
+    ]
+  },
+  {
+    "row": 23,
+    "name": "Basis 2",
+    "alt": "Foundation",
+    "raw": [
+      "Basis 2\nⓘ\nFoundation",
+      "Asc",
+      "Mercury",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\n1B"
+    ],
+    "bbox": [
+      437.98252237096,
+      1243.4998984475014,
+      1356.0116194643228,
+      1282.499895262502
+    ]
+  },
+  {
+    "row": 24,
+    "name": "Battle",
+    "alt": "",
+    "raw": [
+      "Battle",
+      "Sun",
+      "Moon",
+      "Mars",
+      "RD",
+      "R",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1282.499895262502,
+      1356.0116194643228,
+      1319.499892240835
+    ]
+  },
+  {
+    "row": 25,
+    "name": "Beans",
+    "alt": "Egyptian Beans",
+    "raw": [
+      "Beans\nⓘ\nEgyptian Beans",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1319.499892240835,
+      1356.0116194643228,
+      1357.4998891375026
+    ]
+  },
+  {
+    "row": 26,
+    "name": "Being in a Foreign Land",
+    "alt": "",
+    "raw": [
+      "Being in a Foreign Land",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "VV",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1357.4998891375026,
+      1356.0116194643228,
+      1379.4998873408358
+    ]
+  },
+  {
+    "row": 27,
+    "name": "Being Known Among People & Respected",
+    "alt": "",
+    "raw": [
+      "Being Known Among People &\nRespected",
+      "Asc",
+      "Sun",
+      "Fortune",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1379.4998873408358,
+      1356.0116194643228,
+      1415.499884400836
+    ]
+  },
+  {
+    "row": 28,
+    "name": "Birth/Pregnancy",
+    "alt": "",
+    "raw": [
+      "Birth/Pregnancy",
+      "Asc",
+      "Ruler 5th",
+      "5th",
+      "UT",
+      "B",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1415.499884400836,
+      1356.0116194643228,
+      1452.499881379169
+    ]
+  },
+  {
+    "row": 29,
+    "name": "Bitter Foods",
+    "alt": "",
+    "raw": [
+      "Bitter Foods",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1452.499881379169,
+      1356.0116194643228,
+      1489.499878357502
+    ]
+  },
+  {
+    "row": 30,
+    "name": "Bitter Purgatives (al-Bīrūnī)",
+    "alt": "",
+    "raw": [
+      "Bitter Purgatives (al-Bīrūnī)",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      1489.499878357502,
+      1356.0116194643228,
+      1526.499875335835
+    ]
+  },
+  {
+    "row": 31,
+    "name": "Boy-Lover of a Man",
+    "alt": "",
+    "raw": [
+      "Boy-Lover of a Man",
+      "Asc",
+      "Jupiter",
+      "Venus",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1526.499875335835,
+      1356.0116194643228,
+      1547.4998736208354
+    ]
+  },
+  {
+    "row": 32,
+    "name": "Burial",
+    "alt": "",
+    "raw": [
+      "Burial",
+      "Asc",
+      "Saturn",
+      "Moon",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1547.4998736208354,
+      1356.0116194643228,
+      1568.4998719058358
+    ]
+  },
+  {
+    "row": 33,
+    "name": "Business A",
+    "alt": "",
+    "raw": [
+      "Business A",
+      "Asc",
+      "Mars",
+      "Jupiter",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      1568.4998719058358,
+      1356.0116194643228,
+      1605.4998688841688
+    ]
+  },
+  {
+    "row": 34,
+    "name": "Business B",
+    "alt": "",
+    "raw": [
+      "Business B",
+      "Asc",
+      "Saturn",
+      "Jupiter",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "1B,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      1605.4998688841688,
+      1356.0116194643228,
+      1642.4998658625027
+    ]
+  },
+  {
+    "row": 35,
+    "name": "Business, Buying & Selling",
+    "alt": "",
+    "raw": [
+      "Business, Buying & Selling",
+      "Asc",
+      "Fortune",
+      "Spirit",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1642.4998658625027,
+      1356.0116194643228,
+      1663.4998641475022
+    ]
+  },
+  {
+    "row": 36,
+    "name": "Butter",
+    "alt": "",
+    "raw": [
+      "Butter",
+      "Asc",
+      "Venus",
+      "Sun",
+      "BW",
+      "",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1663.4998641475022,
+      1356.0116194643228,
+      1700.499861125836
+    ]
+  },
+  {
+    "row": 37,
+    "name": "Chick-peas",
+    "alt": "Peas",
+    "raw": [
+      "Chick-peas\nⓘ\nPeas",
+      "Asc",
+      "Sun",
+      "Venus",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1700.499861125836,
+      1356.0116194643228,
+      1739.4998579408357
+    ]
+  },
+  {
+    "row": 38,
+    "name": "Children",
+    "alt": "",
+    "raw": [
+      "Children",
+      "Asc",
+      "Saturn",
+      "Jupiter",
+      "DS",
+      "PA, O2, MSL, MSP, MSV, BA,\nTE, SB, GI, Q, R",
+      "reverse\n(GI, Q, R)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1739.4998579408357,
+      1356.0116194643228,
+      1775.4998550008359
+    ]
+  },
+  {
+    "row": 39,
+    "name": "Children (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Children (Firmicus)",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "FM",
+      "",
+      "always below\nhorizon",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1775.4998550008359,
+      1356.0116194643228,
+      1812.4998519791698
+    ]
+  },
+  {
+    "row": 40,
+    "name": "Children (Firmicus)(Alt)",
+    "alt": "",
+    "raw": [
+      "Children (Firmicus)(Alt)",
+      "Asc",
+      "Mercury",
+      "Jupiter",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      1812.4998519791698,
+      1356.0116194643228,
+      1834.499850182503
+    ]
+  },
+  {
+    "row": 41,
+    "name": "Children (Sahl/Hermes)",
+    "alt": "",
+    "raw": [
+      "Children (Sahl/Hermes)",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "SB",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1834.499850182503,
+      1356.0116194643228,
+      1856.4998483858362
+    ]
+  },
+  {
+    "row": 42,
+    "name": "Civil Office",
+    "alt": "",
+    "raw": [
+      "Civil Office",
+      "Asc",
+      "Mercury",
+      "Jupiter",
+      "LJ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1856.4998483858362,
+      1356.0116194643228,
+      1877.4998466708357
+    ]
+  },
+  {
+    "row": 43,
+    "name": "Clouds",
+    "alt": "",
+    "raw": [
+      "Clouds",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1877.4998466708357,
+      1356.0116194643228,
+      1914.4998436491696
+    ]
+  },
+  {
+    "row": 44,
+    "name": "Cold",
+    "alt": "",
+    "raw": [
+      "Cold",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1914.4998436491696,
+      1356.0116194643228,
+      1950.4998407091698
+    ]
+  },
+  {
+    "row": 45,
+    "name": "Compulsion",
+    "alt": "Necessity",
+    "raw": [
+      "Compulsion\nⓘ\nNecessity",
+      "Asc",
+      "Mercury",
+      "Spirit",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1950.4998407091698,
+      1356.0116194643228,
+      1989.4998375241694
+    ]
+  },
+  {
+    "row": 46,
+    "name": "Conquest",
+    "alt": "",
+    "raw": [
+      "Conquest",
+      "Asc",
+      "Mars",
+      "Sun",
+      "B",
+      "R",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      1989.4998375241694,
+      1356.0116194643228,
+      2026.499834502503
+    ]
+  },
+  {
+    "row": 47,
+    "name": "Contentions and Contenders",
+    "alt": "",
+    "raw": [
+      "Contentions and Contenders",
+      "Asc",
+      "Jupiter",
+      "Mars",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2026.499834502503,
+      1356.0116194643228,
+      2047.4998327875028
+    ]
+  },
+  {
+    "row": 48,
+    "name": "Contract 1",
+    "alt": "Property Disposition",
+    "raw": [
+      "Contract 1\nⓘ\nProperty Disposition",
+      "Asc",
+      "Jupiter",
+      "Mercury",
+      "O2",
+      "O1, MSR, MSP",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2047.4998327875028,
+      1356.0116194643228,
+      2086.4998296025033
+    ]
+  },
+  {
+    "row": 49,
+    "name": "Contract 2",
+    "alt": "Property Disposition",
+    "raw": [
+      "Contract 2\nⓘ\nProperty Disposition",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2086.4998296025033,
+      1356.0116194643228,
+      2125.4998264175038
+    ]
+  },
+  {
+    "row": 50,
+    "name": "Cotton",
+    "alt": "",
+    "raw": [
+      "Cotton",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "Q",
+      "B, BW",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2125.4998264175038,
+      1356.0116194643228,
+      2161.499823477504
+    ]
+  },
+  {
+    "row": 51,
+    "name": "Courage",
+    "alt": "Audacity",
+    "raw": [
+      "Courage\nⓘ\nAudacity",
+      "Asc",
+      "Fortune",
+      "Mars",
+      "PA",
+      "O2, MSL, MSP, MSV, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval,\nHermetic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2161.499823477504,
+      1356.0116194643228,
+      2214.4998191491695
+    ]
+  },
+  {
+    "row": 52,
+    "name": "Courage, Violence & Combat",
+    "alt": "",
+    "raw": [
+      "Courage, Violence & Combat",
+      "Asc",
+      "Moon",
+      "Ruler Asc",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2214.4998191491695,
+      1356.0116194643228,
+      2235.49981743417
+    ]
+  },
+  {
+    "row": 53,
+    "name": "Craft",
+    "alt": "",
+    "raw": [
+      "Craft",
+      "Asc",
+      "Moon",
+      "Mars",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2235.49981743417,
+      1356.0116194643228,
+      2256.4998157191703
+    ]
+  },
+  {
+    "row": 54,
+    "name": "Critical Year",
+    "alt": "",
+    "raw": [
+      "Critical Year",
+      "Asc",
+      "Ruler Syzygy",
+      "Saturn",
+      "VV",
+      "GI, Q, R",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2256.4998157191703,
+      1356.0116194643228,
+      2293.4998126975033
+    ]
+  },
+  {
+    "row": 55,
+    "name": "Cunning, Deception & Strategems",
+    "alt": "",
+    "raw": [
+      "Cunning, Deception &\nStrategems",
+      "Asc",
+      "Spirit",
+      "Mercury",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2293.4998126975033,
+      1356.0116194643228,
+      2330.4998096758363
+    ]
+  },
+  {
+    "row": 56,
+    "name": "Daily Rains",
+    "alt": "",
+    "raw": [
+      "Daily Rains",
+      "Moon",
+      "Saturn",
+      "Sun",
+      "K",
+      "RD, B, R, BW",
+      "",
+      "Medieval,\nWeather",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      2330.4998096758363,
+      1356.0116194643228,
+      2366.4998067358365
+    ]
+  },
+  {
+    "row": 57,
+    "name": "Damage",
+    "alt": "Penalty",
+    "raw": [
+      "Damage\nⓘ\nPenalty",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2366.4998067358365,
+      1356.0116194643228,
+      2405.499803550837
+    ]
+  },
+  {
+    "row": 58,
+    "name": "Dates",
+    "alt": "",
+    "raw": [
+      "Dates",
+      "Asc",
+      "Venus",
+      "Sun",
+      "Q",
+      "GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2405.499803550837,
+      1356.0116194643228,
+      2442.499800529171
+    ]
+  },
+  {
+    "row": 59,
+    "name": "Death",
+    "alt": "",
+    "raw": [
+      "Death",
+      "Saturn",
+      "8th",
+      "Moon",
+      "DS",
+      "HT, O2, MSL, MSP, MSV, BA,\nSB, GI, Q, R",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2442.499800529171,
+      1356.0116194643228,
+      2479.499797507504
+    ]
+  },
+  {
+    "row": 60,
+    "name": "Death (al-Ṭabarī 1)",
+    "alt": "",
+    "raw": [
+      "Death (al-Ṭabarī 1)",
+      "8th",
+      "Ruler Asc",
+      "Ruler 8th",
+      "UT",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2479.499797507504,
+      1356.0116194643228,
+      2515.499794567503
+    ]
+  },
+  {
+    "row": 61,
+    "name": "Death (al-Ṭabarī 2)",
+    "alt": "",
+    "raw": [
+      "Death (al-Ṭabarī 2)",
+      "Asc",
+      "Ruler 8th",
+      "8th",
+      "UT",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2515.499794567503,
+      1356.0116194643228,
+      2552.499791545837
+    ]
+  },
+  {
+    "row": 62,
+    "name": "Death (Laurentianus)",
+    "alt": "",
+    "raw": [
+      "Death (Laurentianus)",
+      "Asc",
+      "Saturn",
+      "Moon",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2552.499791545837,
+      1356.0116194643228,
+      2573.4997898308366
+    ]
+  },
+  {
+    "row": 63,
+    "name": "Death (Olympiodorus)",
+    "alt": "",
+    "raw": [
+      "Death (Olympiodorus)",
+      "Asc",
+      "Moon",
+      "Saturn",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse\n(O1, MSP,\nMSV)",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2573.4997898308366,
+      1356.0116194643228,
+      2625.499785584171
+    ]
+  },
+  {
+    "row": 64,
+    "name": "Death (Persian)",
+    "alt": "",
+    "raw": [
+      "Death (Persian)",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2625.499785584171,
+      1356.0116194643228,
+      2647.4997837875044
+    ]
+  },
+  {
+    "row": 65,
+    "name": "Death (Rhetorius)",
+    "alt": "",
+    "raw": [
+      "Death (Rhetorius)",
+      "Asc",
+      "8th",
+      "Moon",
+      "RE",
+      "TE, BA",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2647.4997837875044,
+      1356.0116194643228,
+      2683.4997808475046
+    ]
+  },
+  {
+    "row": 66,
+    "name": "Death of Brothers",
+    "alt": "",
+    "raw": [
+      "Death of Brothers",
+      "Asc",
+      "MC",
+      "Sun",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2683.4997808475046,
+      1356.0116194643228,
+      2705.499779050838
+    ]
+  },
+  {
+    "row": 67,
+    "name": "Death of the Father",
+    "alt": "",
+    "raw": [
+      "Death of the Father",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "GI",
+      "Q",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2705.499779050838,
+      1356.0116194643228,
+      2726.4997773358373
+    ]
+  },
+  {
+    "row": 68,
+    "name": "Debt",
+    "alt": "Loaning",
+    "raw": [
+      "Debt\nⓘ\nLoaning",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "VV",
+      "GI, R",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2726.4997773358373,
+      1356.0116194643228,
+      2765.4997741508378
+    ]
+  },
+  {
+    "row": 69,
+    "name": "Debtor",
+    "alt": "",
+    "raw": [
+      "Debtor",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2765.4997741508378,
+      1356.0116194643228,
+      2786.4997724358373
+    ]
+  },
+  {
+    "row": 70,
+    "name": "Deceit",
+    "alt": "Treachery",
+    "raw": [
+      "Deceit\nⓘ\nTreachery",
+      "Asc",
+      "Mars",
+      "Sun",
+      "VV",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2786.4997724358373,
+      1356.0116194643228,
+      2825.4997692508377
+    ]
+  },
+  {
+    "row": 71,
+    "name": "Desire",
+    "alt": "",
+    "raw": [
+      "Desire",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2825.4997692508377,
+      1356.0116194643228,
+      2846.499767535838
+    ]
+  },
+  {
+    "row": 72,
+    "name": "Destroyer",
+    "alt": "",
+    "raw": [
+      "Destroyer",
+      "Asc",
+      "Moon",
+      "Ruler Asc",
+      "RE",
+      "O2, MSL, MSP, BA, SB, GI, Q,\nR",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2846.499767535838,
+      1356.0116194643228,
+      2883.499764514171
+    ]
+  },
+  {
+    "row": 73,
+    "name": "Destruction",
+    "alt": "",
+    "raw": [
+      "Destruction",
+      "Asc",
+      "Mercury",
+      "Mars",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      2883.499764514171,
+      1356.0116194643228,
+      2904.4997627991715
+    ]
+  },
+  {
+    "row": 74,
+    "name": "Dignity",
+    "alt": "Honors",
+    "raw": [
+      "Dignity\nⓘ\nHonors",
+      "Asc",
+      "Sun",
+      "Jupiter",
+      "FM",
+      "O1, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "1A,\n1B,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      2904.4997627991715,
+      1356.0116194643228,
+      2957.499758470837
+    ]
+  },
+  {
+    "row": 75,
+    "name": "Dignity B",
+    "alt": "",
+    "raw": [
+      "Dignity B",
+      "Asc",
+      "Mars",
+      "Sun",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\n1L,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      2957.499758470837,
+      1356.0116194643228,
+      3009.4997542241717
+    ]
+  },
+  {
+    "row": 76,
+    "name": "Discord",
+    "alt": "",
+    "raw": [
+      "Discord",
+      "Asc",
+      "Dsc",
+      "Mars",
+      "JZ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3009.4997542241717,
+      1356.0116194643228,
+      3030.4997525091712
+    ]
+  },
+  {
+    "row": 77,
+    "name": "Dismissal or Resignation",
+    "alt": "Time of Loss of Dignity",
+    "raw": [
+      "Dismissal or Resignation\nⓘ\nTime of Loss of Dignity",
+      "Saturn",
+      "Jupiter",
+      "Sun",
+      "B",
+      "R",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3030.4997525091712,
+      1356.0116194643228,
+      3069.4997493241717
+    ]
+  },
+  {
+    "row": 78,
+    "name": "Dreams A",
+    "alt": "",
+    "raw": [
+      "Dreams A",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3069.4997493241717,
+      1356.0116194643228,
+      3090.499747609171
+    ]
+  },
+  {
+    "row": 79,
+    "name": "Dreams B",
+    "alt": "",
+    "raw": [
+      "Dreams B",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "MSP",
+      "MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3090.499747609171,
+      1356.0116194643228,
+      3111.4997458941716
+    ]
+  },
+  {
+    "row": 80,
+    "name": "Dwelling",
+    "alt": "",
+    "raw": [
+      "Dwelling",
+      "Asc",
+      "Moon",
+      "Saturn",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3111.4997458941716,
+      1356.0116194643228,
+      3133.499744097505
+    ]
+  },
+  {
+    "row": 81,
+    "name": "Earth",
+    "alt": "",
+    "raw": [
+      "Earth",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "B",
+      "",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3133.499744097505,
+      1356.0116194643228,
+      3169.499741157505
+    ]
+  },
+  {
+    "row": 82,
+    "name": "Enemies (Ancients/Olympiodorus A)",
+    "alt": "",
+    "raw": [
+      "Enemies\n(Ancients/Olympiodorus A)",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "O1",
+      "O2, MSL, MSP, MSV GI, Q",
+      "reverse\n(O1, O2,\nMSL, MSP,\nMSV, R)",
+      "Hellenistic,\nMedieval",
+      "1A,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      3169.499741157505,
+      1356.0116194643228,
+      3237.4997356041713
+    ]
+  },
+  {
+    "row": 83,
+    "name": "Enemies (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Enemies (Firmicus)",
+      "Asc",
+      "Mercury",
+      "Mars",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3237.4997356041713,
+      1356.0116194643228,
+      3258.4997338891726
+    ]
+  },
+  {
+    "row": 84,
+    "name": "Enemies (Hermes)",
+    "alt": "",
+    "raw": [
+      "Enemies (Hermes)",
+      "Asc",
+      "12th",
+      "Ruler 12th",
+      "GI",
+      "Q, R",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3258.4997338891726,
+      1356.0116194643228,
+      3280.499732092506
+    ]
+  },
+  {
+    "row": 85,
+    "name": "Enemies (Laurentianus)",
+    "alt": "",
+    "raw": [
+      "Enemies (Laurentianus)",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "MSL",
+      "MSR",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3280.499732092506,
+      1356.0116194643228,
+      3301.4997303775053
+    ]
+  },
+  {
+    "row": 86,
+    "name": "Enemies (Olympiodorus B)",
+    "alt": "",
+    "raw": [
+      "Enemies (Olympiodorus B)",
+      "Asc",
+      "Mars",
+      "Sun",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      3301.4997303775053,
+      1356.0116194643228,
+      3338.4997273558392
+    ]
+  },
+  {
+    "row": 87,
+    "name": "Enemies (Olympiodorus C)",
+    "alt": "",
+    "raw": [
+      "Enemies (Olympiodorus C)",
+      "Asc",
+      "Mercury",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1L,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      3338.4997273558392,
+      1356.0116194643228,
+      3374.4997244158394
+    ]
+  },
+  {
+    "row": 88,
+    "name": "Entanglement and Hardship",
+    "alt": "",
+    "raw": [
+      "Entanglement and Hardship",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3374.4997244158394,
+      1356.0116194643228,
+      3396.4997226191726
+    ]
+  },
+  {
+    "row": 89,
+    "name": "Eros (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Eros (Firmicus)",
+      "Asc",
+      "Fortune",
+      "Spirit",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3396.4997226191726,
+      1356.0116194643228,
+      3417.499720904172
+    ]
+  },
+  {
+    "row": 90,
+    "name": "Eros (Hermetic)",
+    "alt": "Love; Erotic Love",
+    "raw": [
+      "Eros (Hermetic)\nⓘ\nLove; Erotic Love",
+      "Asc",
+      "Venus",
+      "Spirit",
+      "PA",
+      "O2, MSL",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3417.499720904172,
+      1356.0116194643228,
+      3456.4997177191717
+    ]
+  },
+  {
+    "row": 91,
+    "name": "Eros (Olympiodorus) A",
+    "alt": "",
+    "raw": [
+      "Eros (Olympiodorus) A",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1L,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      3456.4997177191717,
+      1356.0116194643228,
+      3493.4997146975047
+    ]
+  },
+  {
+    "row": 92,
+    "name": "Eros (Olympiodorus) B",
+    "alt": "",
+    "raw": [
+      "Eros (Olympiodorus) B",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      3493.4997146975047,
+      1356.0116194643228,
+      3529.499711757505
+    ]
+  },
+  {
+    "row": 93,
+    "name": "Eros (Valens)",
+    "alt": "Love; Nobility, Being Loved, Passion for Worldly Things; Harmony",
+    "raw": [
+      "Eros (Valens)\nLove; Nobility, Being Loved,\nPassion for Worldly Things;\nⓘ\nHarmony",
+      "Asc",
+      "Spirit",
+      "Fortune",
+      "VV",
+      "DS, FM, SB, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3529.499711757505,
+      1356.0116194643228,
+      3599.4997060408386
+    ]
+  },
+  {
+    "row": 94,
+    "name": "Estates",
+    "alt": "",
+    "raw": [
+      "Estates",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3599.4997060408386,
+      1356.0116194643228,
+      3620.499704325838
+    ]
+  },
+  {
+    "row": 95,
+    "name": "Exaltation (Day)",
+    "alt": "",
+    "raw": [
+      "Exaltation (Day)",
+      "Asc",
+      "18 Aries",
+      "Sun",
+      "VV",
+      "O2, MSL,MSP, MSV, SB, GI, Q",
+      "day",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3620.499704325838,
+      1356.0116194643228,
+      3657.499701304172
+    ]
+  },
+  {
+    "row": 96,
+    "name": "Exaltation (Night)",
+    "alt": "",
+    "raw": [
+      "Exaltation (Night)",
+      "Asc",
+      "2 Taurus",
+      "Moon",
+      "VV",
+      "MSL, MSP, MSV, SB, GI, Q",
+      "night",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3657.499701304172,
+      1356.0116194643228,
+      3694.4996982825055
+    ]
+  },
+  {
+    "row": 97,
+    "name": "Exhaustion of Bodies",
+    "alt": "",
+    "raw": [
+      "Exhaustion of Bodies",
+      "Asc",
+      "Mars",
+      "Fortune",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3694.4996982825055,
+      1356.0116194643228,
+      3715.499696567506
+    ]
+  },
+  {
+    "row": 98,
+    "name": "Exile A",
+    "alt": "",
+    "raw": [
+      "Exile A",
+      "Asc",
+      "Moon",
+      "Mars",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "1A,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      3715.499696567506,
+      1356.0116194643228,
+      3752.4996935458394
+    ]
+  },
+  {
+    "row": 99,
+    "name": "Fame",
+    "alt": "Glory",
+    "raw": [
+      "Fame\nⓘ\nGlory",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "O2",
+      "FM, MSR, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3752.4996935458394,
+      1356.0116194643228,
+      3790.499690442506
+    ]
+  },
+  {
+    "row": 100,
+    "name": "Fame and Reputation",
+    "alt": "",
+    "raw": [
+      "Fame and Reputation",
+      "Asc",
+      "MC",
+      "Sun",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3790.499690442506,
+      1356.0116194643228,
+      3812.4996886458393
+    ]
+  },
+  {
+    "row": 101,
+    "name": "Farming A",
+    "alt": "",
+    "raw": [
+      "Farming A",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "O2",
+      "O1, MSP",
+      "reverse",
+      "Hellenistic",
+      "1B,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      3812.4996886458393,
+      1356.0116194643228,
+      3848.49968570584
+    ]
+  },
+  {
+    "row": 102,
+    "name": "Farming B",
+    "alt": "",
+    "raw": [
+      "Farming B",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "MSR",
+      "MSV",
+      "reverse",
+      "Hellenistic",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      3848.49968570584,
+      1356.0116194643228,
+      3870.499683909173
+    ]
+  },
+  {
+    "row": 103,
+    "name": "Father",
+    "alt": "",
+    "raw": [
+      "Father",
+      "Asc",
+      "Saturn",
+      "Sun",
+      "DS",
+      "VV, PA, FM, O2, MSL, MSP,\nMSV, SB, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3870.499683909173,
+      1356.0116194643228,
+      3906.499680969173
+    ]
+  },
+  {
+    "row": 104,
+    "name": "Father (Alt 1)",
+    "alt": "",
+    "raw": [
+      "Father (Alt 1)",
+      "Asc",
+      "Jupiter",
+      "Mars",
+      "DS",
+      "PA, SB, MSP, GI",
+      "reverse\n(GI)",
+      "Hellenistic,\nMedieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      3906.499680969173,
+      1356.0116194643228,
+      3943.4996779475064
+    ]
+  },
+  {
+    "row": 105,
+    "name": "Father (Alt 2)",
+    "alt": "",
+    "raw": [
+      "Father (Alt 2)",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "VV",
+      "GI, Q",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      3943.4996779475064,
+      1356.0116194643228,
+      3980.4996749258403
+    ]
+  },
+  {
+    "row": 106,
+    "name": "Faults and Lusts",
+    "alt": "",
+    "raw": [
+      "Faults and Lusts",
+      "Asc",
+      "Saturn",
+      "Moon",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      3980.4996749258403,
+      1356.0116194643228,
+      4001.4996732108402
+    ]
+  },
+  {
+    "row": 107,
+    "name": "Female Children (Dorotheus)",
+    "alt": "",
+    "raw": [
+      "Female Children (Dorotheus)",
+      "Asc",
+      "Venus",
+      "Moon",
+      "DS",
+      "MSL, BA, SB, GI, Q",
+      "reverse\n(MSL,\nTheophilus)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4001.4996732108402,
+      1356.0116194643228,
+      4053.4996689641725
+    ]
+  },
+  {
+    "row": 108,
+    "name": "Female Children (Valens)",
+    "alt": "",
+    "raw": [
+      "Female Children (Valens)",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "VV",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4053.4996689641725,
+      1356.0116194643228,
+      4075.499667167506
+    ]
+  },
+  {
+    "row": 109,
+    "name": "Fire",
+    "alt": "",
+    "raw": [
+      "Fire",
+      "Asc",
+      "Mars",
+      "Sun",
+      "B",
+      "",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4075.499667167506,
+      1356.0116194643228,
+      4111.499664227506
+    ]
+  },
+  {
+    "row": 110,
+    "name": "Flax",
+    "alt": "",
+    "raw": [
+      "Flax",
+      "Asc",
+      "Venus",
+      "Mars",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4111.499664227506,
+      1356.0116194643228,
+      4148.499661205839
+    ]
+  },
+  {
+    "row": 111,
+    "name": "Fortune",
+    "alt": "",
+    "raw": [
+      "Fortune",
+      "Asc",
+      "Moon",
+      "Sun",
+      "DS",
+      "VV, FM, PA, O2, MSL, MSP,\nMSV, SB, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      4148.499661205839,
+      1356.0116194643228,
+      4185.499658184173
+    ]
+  },
+  {
+    "row": 112,
+    "name": "Found Wealth",
+    "alt": "",
+    "raw": [
+      "Found Wealth",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4185.499658184173,
+      1356.0116194643228,
+      4206.499656469173
+    ]
+  },
+  {
+    "row": 113,
+    "name": "Freedmen and Servants",
+    "alt": "",
+    "raw": [
+      "Freedmen and Servants",
+      "Mercury",
+      "Saturn",
+      "Jupiter",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4206.499656469173,
+      1356.0116194643228,
+      4243.499653447507
+    ]
+  },
+  {
+    "row": 114,
+    "name": "Freedom",
+    "alt": "",
+    "raw": [
+      "Freedom",
+      "Asc",
+      "Sun",
+      "Mercury",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4243.499653447507,
+      1356.0116194643228,
+      4264.499651732506
+    ]
+  },
+  {
+    "row": 115,
+    "name": "Friends",
+    "alt": "",
+    "raw": [
+      "Friends",
+      "Asc",
+      "Mercury",
+      "Moon",
+      "DS",
+      "O1, MSL, BA, SB, GI, Q, R",
+      "reverse\n(O1, MSL,\nBA, SB)",
+      "Hellenistic,\nMedieval",
+      "1B"
+    ],
+    "bbox": [
+      437.98252237096,
+      4264.499651732506,
+      1356.0116194643228,
+      4316.499647485841
+    ]
+  },
+  {
+    "row": 116,
+    "name": "Friends (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Friends (Firmicus)",
+      "Asc",
+      "Mercury",
+      "Jupiter",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4316.499647485841,
+      1356.0116194643228,
+      4338.499645689174
+    ]
+  },
+  {
+    "row": 117,
+    "name": "Friends (Olympiodorus 1) a",
+    "alt": "",
+    "raw": [
+      "Friends (Olympiodorus 1) a",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\n1L,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      4338.499645689174,
+      1356.0116194643228,
+      4390.499641442507
+    ]
+  },
+  {
+    "row": 118,
+    "name": "Friends (Olympiodorus 1) B",
+    "alt": "",
+    "raw": [
+      "Friends (Olympiodorus 1) B",
+      "Asc",
+      "Saturn",
+      "Jupiter",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      4390.499641442507,
+      1356.0116194643228,
+      4427.49963842084
+    ]
+  },
+  {
+    "row": 119,
+    "name": "Friends (Olympiodorus 2)",
+    "alt": "",
+    "raw": [
+      "Friends (Olympiodorus 2)",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "O2",
+      "MSR, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4427.49963842084,
+      1356.0116194643228,
+      4448.49963670584
+    ]
+  },
+  {
+    "row": 120,
+    "name": "Grandfathers",
+    "alt": "",
+    "raw": [
+      "Grandfathers",
+      "Asc",
+      "Saturn",
+      "Ruler Sun",
+      "GI",
+      "Q",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4448.49963670584,
+      1356.0116194643228,
+      4469.49963499084
+    ]
+  },
+  {
+    "row": 121,
+    "name": "Grandfathers (Alt 1)",
+    "alt": "",
+    "raw": [
+      "Grandfathers (Alt 1)",
+      "Asc",
+      "Saturn",
+      "Sun",
+      "GI",
+      "Q",
+      "reverse",
+      "Medieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      4469.49963499084,
+      1356.0116194643228,
+      4492.499633112508
+    ]
+  },
+  {
+    "row": 122,
+    "name": "Grandfathers (Alt 2)",
+    "alt": "",
+    "raw": [
+      "Grandfathers (Alt 2)",
+      "Asc",
+      "Saturn",
+      "0 Leo",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      4492.499633112508,
+      1356.0116194643228,
+      4514.499631315841
+    ]
+  },
+  {
+    "row": 123,
+    "name": "Grapes",
+    "alt": "Wine",
+    "raw": [
+      "Grapes\nⓘ\nWine",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4514.499631315841,
+      1356.0116194643228,
+      4553.49962813084
+    ]
+  },
+  {
+    "row": 124,
+    "name": "Grief 1A",
+    "alt": "",
+    "raw": [
+      "Grief 1A",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      4553.49962813084,
+      1356.0116194643228,
+      4589.499625190841
+    ]
+  },
+  {
+    "row": 125,
+    "name": "Grief 1B",
+    "alt": "",
+    "raw": [
+      "Grief 1B",
+      "Asc",
+      "Sun",
+      "Saturn",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "1B,\n1L,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      4589.499625190841,
+      1356.0116194643228,
+      4642.499620862508
+    ]
+  },
+  {
+    "row": 126,
+    "name": "Happiness and Wedding",
+    "alt": "Men's and Women's Marriage",
+    "raw": [
+      "Happiness and Wedding\nⓘ\nMen's and Women's Marriage",
+      "Asc",
+      "Dsc",
+      "Venus",
+      "DS",
+      "BA, SB, GI, Q",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4642.499620862508,
+      1356.0116194643228,
+      4680.499617759174
+    ]
+  },
+  {
+    "row": 127,
+    "name": "Homeland A",
+    "alt": "",
+    "raw": [
+      "Homeland A",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      4680.499617759174,
+      1356.0116194643228,
+      4717.499614737507
+    ]
+  },
+  {
+    "row": 128,
+    "name": "Homeland B",
+    "alt": "",
+    "raw": [
+      "Homeland B",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      4717.499614737507,
+      1356.0116194643228,
+      4754.499611715841
+    ]
+  },
+  {
+    "row": 129,
+    "name": "Homeland C",
+    "alt": "",
+    "raw": [
+      "Homeland C",
+      "Asc",
+      "Mars",
+      "Sun",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse\n(O1)",
+      "Hellenistic",
+      "1L,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      4754.499611715841,
+      1356.0116194643228,
+      4790.499608775841
+    ]
+  },
+  {
+    "row": 130,
+    "name": "Honey",
+    "alt": "",
+    "raw": [
+      "Honey",
+      "Asc",
+      "Sun",
+      "Moon",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4790.499608775841,
+      1356.0116194643228,
+      4827.499605754175
+    ]
+  },
+  {
+    "row": 131,
+    "name": "Hope",
+    "alt": "",
+    "raw": [
+      "Hope",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "GI",
+      "R",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4827.499605754175,
+      1356.0116194643228,
+      4848.499604039174
+    ]
+  },
+  {
+    "row": 132,
+    "name": "Identifying Birthmarks of a Prophet",
+    "alt": "",
+    "raw": [
+      "Identifying Birthmarks of a\nProphet",
+      "Asc",
+      "Sun",
+      "Lord of\nHour",
+      "RD",
+      "",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4848.499604039174,
+      1356.0116194643228,
+      4885.499601017508
+    ]
+  },
+  {
+    "row": 133,
+    "name": "Identifying Males and Females",
+    "alt": "",
+    "raw": [
+      "Identifying Males and\nFemales",
+      "Asc",
+      "Moon",
+      "Ruler\nMoon",
+      "SB",
+      "GI, Q",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4885.499601017508,
+      1356.0116194643228,
+      4922.499597995841
+    ]
+  },
+  {
+    "row": 134,
+    "name": "Illness (Ancients)",
+    "alt": "",
+    "raw": [
+      "Illness (Ancients)",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4922.499597995841,
+      1356.0116194643228,
+      4943.499596280842
+    ]
+  },
+  {
+    "row": 135,
+    "name": "Illness (Dorotheus - Chinese)",
+    "alt": "",
+    "raw": [
+      "Illness (Dorotheus - Chinese)",
+      "Asc",
+      "6th",
+      "Sun",
+      "LJ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4943.499596280842,
+      1356.0116194643228,
+      4965.499594484175
+    ]
+  },
+  {
+    "row": 136,
+    "name": "Illness (Dorotheus)",
+    "alt": "",
+    "raw": [
+      "Illness (Dorotheus)",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "DS",
+      "FM, HT, BA, SB, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      4965.499594484175,
+      1356.0116194643228,
+      5001.499591544175
+    ]
+  },
+  {
+    "row": 137,
+    "name": "Illness (Laurentianus)",
+    "alt": "",
+    "raw": [
+      "Illness (Laurentianus)",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "MSL",
+      "MSP",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5001.499591544175,
+      1356.0116194643228,
+      5023.499589747508
+    ]
+  },
+  {
+    "row": 138,
+    "name": "Imprisonment A",
+    "alt": "",
+    "raw": [
+      "Imprisonment A",
+      "Asc",
+      "Sun",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      5023.499589747508,
+      1356.0116194643228,
+      5059.499586807508
+    ]
+  },
+  {
+    "row": 139,
+    "name": "Imprisonment B",
+    "alt": "",
+    "raw": [
+      "Imprisonment B",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "1B,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      5059.499586807508,
+      1356.0116194643228,
+      5096.499583785841
+    ]
+  },
+  {
+    "row": 140,
+    "name": "Indecency and Lust",
+    "alt": "",
+    "raw": [
+      "Indecency and Lust",
+      "Asc",
+      "Venus",
+      "Moon",
+      "FM",
+      "",
+      "use both",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5096.499583785841,
+      1356.0116194643228,
+      5117.499582070842
+    ]
+  },
+  {
+    "row": 141,
+    "name": "Indian Peas",
+    "alt": "",
+    "raw": [
+      "Indian Peas",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "Q",
+      "",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5117.499582070842,
+      1356.0116194643228,
+      5154.499579049175
+    ]
+  },
+  {
+    "row": 142,
+    "name": "Inheritance 1",
+    "alt": "",
+    "raw": [
+      "Inheritance 1",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "O1",
+      "MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5154.499579049175,
+      1356.0116194643228,
+      5176.499577252508
+    ]
+  },
+  {
+    "row": 143,
+    "name": "Inheritance 2",
+    "alt": "",
+    "raw": [
+      "Inheritance 2",
+      "Asc",
+      "Mercury",
+      "Jupiter",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5176.499577252508,
+      1356.0116194643228,
+      5197.4995755375085
+    ]
+  },
+  {
+    "row": 144,
+    "name": "Injury 1",
+    "alt": "",
+    "raw": [
+      "Injury 1",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "O1",
+      "MSP",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5197.4995755375085,
+      1356.0116194643228,
+      5218.499573822508
+    ]
+  },
+  {
+    "row": 145,
+    "name": "Injury 2",
+    "alt": "",
+    "raw": [
+      "Injury 2",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "MSL",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5218.499573822508,
+      1356.0116194643228,
+      5240.499572025841
+    ]
+  },
+  {
+    "row": 146,
+    "name": "Injury 3",
+    "alt": "",
+    "raw": [
+      "Injury 3",
+      "Mercury",
+      "Mars",
+      "Saturn",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5240.499572025841,
+      1356.0116194643228,
+      5261.499570310842
+    ]
+  },
+  {
+    "row": 147,
+    "name": "Injury to Business",
+    "alt": "",
+    "raw": [
+      "Injury to Business",
+      "Asc",
+      "Fortune",
+      "Ruler Asc",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5261.499570310842,
+      1356.0116194643228,
+      5298.499567289175
+    ]
+  },
+  {
+    "row": 148,
+    "name": "Iron",
+    "alt": "",
+    "raw": [
+      "Iron",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5298.499567289175,
+      1356.0116194643228,
+      5334.499564349175
+    ]
+  },
+  {
+    "row": 149,
+    "name": "Job & Authority",
+    "alt": "",
+    "raw": [
+      "Job & Authority",
+      "Asc",
+      "MC",
+      "Sun",
+      "Q",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5334.499564349175,
+      1356.0116194643228,
+      5356.499562552508
+    ]
+  },
+  {
+    "row": 150,
+    "name": "Judgment 1A",
+    "alt": "",
+    "raw": [
+      "Judgment 1A",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1A,\nDub"
+    ],
+    "bbox": [
+      437.98252237096,
+      5356.499562552508,
+      1356.0116194643228,
+      5393.499559530842
+    ]
+  },
+  {
+    "row": 151,
+    "name": "Judgment 1B",
+    "alt": "",
+    "raw": [
+      "Judgment 1B",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      5393.499559530842,
+      1356.0116194643228,
+      5429.499556590842
+    ]
+  },
+  {
+    "row": 152,
+    "name": "Judgment 1C",
+    "alt": "",
+    "raw": [
+      "Judgment 1C",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "1B,\n1L,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      5429.499556590842,
+      1356.0116194643228,
+      5481.499552344176
+    ]
+  },
+  {
+    "row": 153,
+    "name": "Judgment 2",
+    "alt": "",
+    "raw": [
+      "Judgment 2",
+      "Asc",
+      "Jupiter",
+      "Mars",
+      "MSR",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5481.499552344176,
+      1356.0116194643228,
+      5503.499550547509
+    ]
+  },
+  {
+    "row": 154,
+    "name": "Killing",
+    "alt": "Decapitation",
+    "raw": [
+      "Killing\nⓘ\nDecapitation",
+      "8th",
+      "Mars",
+      "Moon",
+      "UT",
+      "B",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5503.499550547509,
+      1356.0116194643228,
+      5541.499547444175
+    ]
+  },
+  {
+    "row": 155,
+    "name": "Kinship",
+    "alt": "",
+    "raw": [
+      "Kinship",
+      "Asc",
+      "Jupiter",
+      "Mercury",
+      "MSP",
+      "MSR, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5541.499547444175,
+      1356.0116194643228,
+      5563.499545647508
+    ]
+  },
+  {
+    "row": 156,
+    "name": "Knowledge",
+    "alt": "Knowledge of the King",
+    "raw": [
+      "Knowledge\nⓘ\nKnowledge of the King",
+      "Asc",
+      "Jupiter",
+      "Moon",
+      "Q",
+      "",
+      "reverse",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5563.499545647508,
+      1356.0116194643228,
+      5601.499542544175
+    ]
+  },
+  {
+    "row": 157,
+    "name": "Knowledge & Meditation",
+    "alt": "Wisdom & Understanding",
+    "raw": [
+      "Knowledge & Meditation\nⓘ\nWisdom & Understanding",
+      "Mercury",
+      "Jupiter",
+      "Saturn",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5601.499542544175,
+      1356.0116194643228,
+      5640.499539359175
+    ]
+  },
+  {
+    "row": 158,
+    "name": "Knowledge & Meditation (al-Qabīṣī)",
+    "alt": "",
+    "raw": [
+      "Knowledge & Meditation (al-\nQabīṣī)",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "Q",
+      "",
+      "",
+      "Medieval",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      5640.499539359175,
+      1356.0116194643228,
+      5677.499536337509
+    ]
+  },
+  {
+    "row": 159,
+    "name": "Lawsuit",
+    "alt": "",
+    "raw": [
+      "Lawsuit",
+      "Asc",
+      "Mercury",
+      "Mars",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5677.499536337509,
+      1356.0116194643228,
+      5714.499533315842
+    ]
+  },
+  {
+    "row": 160,
+    "name": "Lentils",
+    "alt": "",
+    "raw": [
+      "Lentils",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5714.499533315842,
+      1356.0116194643228,
+      5750.499530375842
+    ]
+  },
+  {
+    "row": 161,
+    "name": "Life 1",
+    "alt": "Livelihood",
+    "raw": [
+      "Life 1\nⓘ\nLivelihood",
+      "Asc",
+      "Saturn",
+      "Jupiter",
+      "O2",
+      "O1, MSL, MSR, MSP, MSV, SB,\nGI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      "1B"
+    ],
+    "bbox": [
+      437.98252237096,
+      5750.499530375842,
+      1356.0116194643228,
+      5789.499527190842
+    ]
+  },
+  {
+    "row": 162,
+    "name": "Life 2a",
+    "alt": "",
+    "raw": [
+      "Life 2a",
+      "Asc",
+      "Venus",
+      "Moon",
+      "O1",
+      "MSL",
+      "reverse",
+      "Hellenistic",
+      "1A,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      5789.499527190842,
+      1356.0116194643228,
+      5826.499524169176
+    ]
+  },
+  {
+    "row": 163,
+    "name": "Life 2b",
+    "alt": "",
+    "raw": [
+      "Life 2b",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      5826.499524169176,
+      1356.0116194643228,
+      5863.49952114751
+    ]
+  },
+  {
+    "row": 164,
+    "name": "Life 2c",
+    "alt": "",
+    "raw": [
+      "Life 2c",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      5863.49952114751,
+      1356.0116194643228,
+      5899.49951820751
+    ]
+  },
+  {
+    "row": 165,
+    "name": "Life 2d",
+    "alt": "",
+    "raw": [
+      "Life 2d",
+      "Asc",
+      "Venus",
+      "Fortune",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      5899.49951820751,
+      1356.0116194643228,
+      5936.499515185842
+    ]
+  },
+  {
+    "row": 166,
+    "name": "Life or Death of Absent",
+    "alt": "",
+    "raw": [
+      "Life or Death of Absent",
+      "Asc",
+      "Mars",
+      "Moon",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5936.499515185842,
+      1356.0116194643228,
+      5973.499512164176
+    ]
+  },
+  {
+    "row": 167,
+    "name": "Lineage",
+    "alt": "",
+    "raw": [
+      "Lineage",
+      "Mercury",
+      "Mars",
+      "Saturn",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5973.499512164176,
+      1356.0116194643228,
+      5994.499510449175
+    ]
+  },
+  {
+    "row": 168,
+    "name": "Livelihood (Dorotheus)",
+    "alt": "Wealth",
+    "raw": [
+      "Livelihood (Dorotheus)\nⓘ\nWealth",
+      "Asc",
+      "2nd",
+      "Ruler 2nd",
+      "DS",
+      "HT, RE, MSL, MSP, MSV, BA,\nSB, GI, Q, R",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      5994.499510449175,
+      1356.0116194643228,
+      6033.499507264176
+    ]
+  },
+  {
+    "row": 169,
+    "name": "Livelihood 2",
+    "alt": "",
+    "raw": [
+      "Livelihood 2",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6033.499507264176,
+      1356.0116194643228,
+      6054.499505549176
+    ]
+  },
+  {
+    "row": 170,
+    "name": "Livelihood 3",
+    "alt": "",
+    "raw": [
+      "Livelihood 3",
+      "Asc",
+      "Asc",
+      "Sun",
+      "O2",
+      "MSR, MSP, MSV",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6054.499505549176,
+      1356.0116194643228,
+      6075.499503834177
+    ]
+  },
+  {
+    "row": 171,
+    "name": "Livelihood 4",
+    "alt": "",
+    "raw": [
+      "Livelihood 4",
+      "Asc",
+      "Moon",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      6075.499503834177,
+      1356.0116194643228,
+      6112.49950081251
+    ]
+  },
+  {
+    "row": 172,
+    "name": "Loans",
+    "alt": "",
+    "raw": [
+      "Loans",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6112.49950081251,
+      1356.0116194643228,
+      6134.499499015843
+    ]
+  },
+  {
+    "row": 173,
+    "name": "Logic & Reason",
+    "alt": "",
+    "raw": [
+      "Logic & Reason",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "GI",
+      "R",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6134.499499015843,
+      1356.0116194643228,
+      6155.499497300843
+    ]
+  },
+  {
+    "row": 174,
+    "name": "Longevity",
+    "alt": "",
+    "raw": [
+      "Longevity",
+      "Asc",
+      "Moon",
+      "Jupiter",
+      "LJ",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6155.499497300843,
+      1356.0116194643228,
+      6176.499495585843
+    ]
+  },
+  {
+    "row": 175,
+    "name": "Lords and Masters",
+    "alt": "",
+    "raw": [
+      "Lords and Masters",
+      "Moon",
+      "Saturn",
+      "Jupiter",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6176.499495585843,
+      1356.0116194643228,
+      6213.499492564177
+    ]
+  },
+  {
+    "row": 176,
+    "name": "Lost Animal",
+    "alt": "",
+    "raw": [
+      "Lost Animal",
+      "Asc",
+      "Mars",
+      "Sun",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6213.499492564177,
+      1356.0116194643228,
+      6250.49948954251
+    ]
+  },
+  {
+    "row": 177,
+    "name": "Lover of a Woman",
+    "alt": "",
+    "raw": [
+      "Lover of a Woman",
+      "Asc",
+      "Moon",
+      "Jupiter",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6250.49948954251,
+      1356.0116194643228,
+      6271.49948782751
+    ]
+  },
+  {
+    "row": 178,
+    "name": "Lovers",
+    "alt": "",
+    "raw": [
+      "Lovers",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "JZ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6271.49948782751,
+      1356.0116194643228,
+      6292.49948611251
+    ]
+  },
+  {
+    "row": 179,
+    "name": "Male Children (Dorotheus -Chinese)",
+    "alt": "",
+    "raw": [
+      "Male Children (Dorotheus -\nChinese)",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "LJ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6292.49948611251,
+      1356.0116194643228,
+      6329.499483090844
+    ]
+  },
+  {
+    "row": 180,
+    "name": "Male Children (Dorotheus)",
+    "alt": "",
+    "raw": [
+      "Male Children (Dorotheus)",
+      "Asc",
+      "Sun",
+      "Jupiter",
+      "DS",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6329.499483090844,
+      1356.0116194643228,
+      6350.499481375843
+    ]
+  },
+  {
+    "row": 181,
+    "name": "Male Children (Hermes)",
+    "alt": "",
+    "raw": [
+      "Male Children (Hermes)",
+      "Asc",
+      "Jupiter",
+      "Moon",
+      "MSL",
+      "BA, SB, GI, Q",
+      "reverse\n(MSL)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6350.499481375843,
+      1356.0116194643228,
+      6387.499478354177
+    ]
+  },
+  {
+    "row": 182,
+    "name": "Male Children (Persian/Theophilus)",
+    "alt": "",
+    "raw": [
+      "Male Children\n(Persian/Theophilus)",
+      "Asc",
+      "Saturn",
+      "Moon",
+      "GI",
+      "",
+      "reverse\n(Persians)",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6387.499478354177,
+      1356.0116194643228,
+      6424.49947533251
+    ]
+  },
+  {
+    "row": 183,
+    "name": "Male Children (Valens)",
+    "alt": "",
+    "raw": [
+      "Male Children (Valens)",
+      "Asc",
+      "Mercury",
+      "Jupiter",
+      "VV",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6424.49947533251,
+      1356.0116194643228,
+      6445.49947361751
+    ]
+  },
+  {
+    "row": 184,
+    "name": "Manual Workers & Commercial Activities",
+    "alt": "",
+    "raw": [
+      "Manual Workers &\nCommercial Activities",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6445.49947361751,
+      1356.0116194643228,
+      6482.499470595843
+    ]
+  },
+  {
+    "row": 185,
+    "name": "Marriage (Firmicus)",
+    "alt": "Time of Marriage",
+    "raw": [
+      "Marriage (Firmicus)\nⓘ\nTime of Marriage",
+      "Asc",
+      "Moon",
+      "Sun",
+      "FM",
+      "MSL, GI, Q",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6482.499470595843,
+      1356.0116194643228,
+      6521.499467410843
+    ]
+  },
+  {
+    "row": 186,
+    "name": "Marriage (Horary)",
+    "alt": "",
+    "raw": [
+      "Marriage (Horary)",
+      "Asc",
+      "Ruler Dsc",
+      "Dsc",
+      "UT",
+      "B",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6521.499467410843,
+      1356.0116194643228,
+      6557.499464470843
+    ]
+  },
+  {
+    "row": 187,
+    "name": "Marriage (Men, a/t Dorotheus)",
+    "alt": "Union",
+    "raw": [
+      "Marriage (Men, a/t\nDorotheus)\nⓘ\nUnion",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "DS",
+      "PA, FM, O2, MSL, MSP, MSV,\nBA, SB, GI, Q, R",
+      "reverse\n(FM, MSL,\nAO)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6557.499464470843,
+      1356.0116194643228,
+      6612.499459979177
+    ]
+  },
+  {
+    "row": 188,
+    "name": "Marriage (Men, a/t Valens)",
+    "alt": "Fornication; Men's Deception, Adultery, etc.",
+    "raw": [
+      "Marriage (Men, a/t Valens)\nFornication; Men's Deception,\nⓘ\nAdultery, etc.",
+      "Asc",
+      "Venus",
+      "Sun",
+      "VV",
+      "MSL, MSV, SB, GI, Q, R",
+      "day (AO)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6612.499459979177,
+      1356.0116194643228,
+      6666.499455569177
+    ]
+  },
+  {
+    "row": 189,
+    "name": "Marriage (Valens)",
+    "alt": "",
+    "raw": [
+      "Marriage (Valens)",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "VV",
+      "",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6666.499455569177,
+      1356.0116194643228,
+      6702.4994526291775
+    ]
+  },
+  {
+    "row": 190,
+    "name": "Marriage (Women, a/t Dorotheus)",
+    "alt": "",
+    "raw": [
+      "Marriage (Women, a/t\nDorotheus)",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "DS",
+      "PA, O2, MSL, MSP, MSV, BA,\nSB, GI, Q, R",
+      "reverse\n(MSL)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6702.4994526291775,
+      1356.0116194643228,
+      6739.4994496075105
+    ]
+  },
+  {
+    "row": 191,
+    "name": "Marriage (Women, a/t Valens)",
+    "alt": "Fornication; Women's Deception, Fornication, etc.",
+    "raw": [
+      "Marriage (Women, a/t\nValens)\nFornication; Women's Deception,\nⓘ\nFornication, etc.",
+      "Asc",
+      "Mars",
+      "Moon",
+      "VV",
+      "MSL, MSV, SB, GI, Q",
+      "night (AO)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6739.4994496075105,
+      1356.0116194643228,
+      6808.499443972511
+    ]
+  },
+  {
+    "row": 192,
+    "name": "Meat",
+    "alt": "",
+    "raw": [
+      "Meat",
+      "Asc",
+      "Jupiter",
+      "Moon",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6808.499443972511,
+      1356.0116194643228,
+      6845.499440950844
+    ]
+  },
+  {
+    "row": 193,
+    "name": "Melons",
+    "alt": "Melons, Watermelons, Cucumbers & Gourds",
+    "raw": [
+      "Melons\nMelons, Watermelons, Cucumbers\nⓘ\n& Gourds",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "Q",
+      "BW, GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6845.499440950844,
+      1356.0116194643228,
+      6899.499436540845
+    ]
+  },
+  {
+    "row": 194,
+    "name": "Military Expedition",
+    "alt": "Horsemanship & Courage; War & Fighting",
+    "raw": [
+      "Military Expedition\nHorsemanship & Courage; War &\nⓘ\nFighting",
+      "Asc",
+      "Moon",
+      "Saturn",
+      "DS",
+      "HT, MSL, TE, GI, Q, B",
+      "reverse\n(MSL)",
+      "Hellenistic,\nMedieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6899.499436540845,
+      1356.0116194643228,
+      6953.499432130844
+    ]
+  },
+  {
+    "row": 195,
+    "name": "Military Service (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Military Service (Firmicus)",
+      "Asc",
+      "Sun",
+      "Mars",
+      "FM",
+      "MSP, MSV",
+      "reverse\n(MSP, MSV)",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6953.499432130844,
+      1356.0116194643228,
+      6990.499429109178
+    ]
+  },
+  {
+    "row": 196,
+    "name": "Military Service (Laurentianus)",
+    "alt": "",
+    "raw": [
+      "Military Service\n(Laurentianus)",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      6990.499429109178,
+      1356.0116194643228,
+      7027.499426087511
+    ]
+  },
+  {
+    "row": 197,
+    "name": "Military Service (Olympiodorus 1)",
+    "alt": "",
+    "raw": [
+      "Military Service\n(Olympiodorus 1)",
+      "Asc",
+      "Jupiter",
+      "Mars",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7027.499426087511,
+      1356.0116194643228,
+      7064.499423065845
+    ]
+  },
+  {
+    "row": 198,
+    "name": "Mistress of a Man",
+    "alt": "",
+    "raw": [
+      "Mistress of a Man",
+      "Asc",
+      "Jupiter",
+      "Moon",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7064.499423065845,
+      1356.0116194643228,
+      7085.499421350844
+    ]
+  },
+  {
+    "row": 199,
+    "name": "Mistress of a Woman",
+    "alt": "",
+    "raw": [
+      "Mistress of a Woman",
+      "Asc",
+      "Moon",
+      "Venus",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7085.499421350844,
+      1356.0116194643228,
+      7106.499419635845
+    ]
+  },
+  {
+    "row": 200,
+    "name": "Mother",
+    "alt": "",
+    "raw": [
+      "Mother",
+      "Asc",
+      "Moon",
+      "Venus",
+      "DS",
+      "PA, FM, O2, MSL, MSP, MSV,\nGI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7106.499419635845,
+      1356.0116194643228,
+      7143.499416614178
+    ]
+  },
+  {
+    "row": 201,
+    "name": "Nature of the Planets (Moon)",
+    "alt": "Duration of Rule 2",
+    "raw": [
+      "Nature of the Planets (Moon)\nⓘ\nDuration of Rule 2",
+      "Sun",
+      "15 Cancer",
+      "Moon",
+      "SB",
+      "GI, JZ, Q",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7143.499416614178,
+      1356.0116194643228,
+      7182.499413429177
+    ]
+  },
+  {
+    "row": 202,
+    "name": "Nature of the Planets (Sun)",
+    "alt": "Duration of Rule 1",
+    "raw": [
+      "Nature of the Planets (Sun)\nⓘ\nDuration of Rule 1",
+      "Moon",
+      "15 Leo",
+      "Sun",
+      "SB",
+      "GI, JZ, Q",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7182.499413429177,
+      1356.0116194643228,
+      7220.499410325844
+    ]
+  },
+  {
+    "row": 203,
+    "name": "Navigation (Hellenistic)",
+    "alt": "",
+    "raw": [
+      "Navigation (Hellenistic)",
+      "Asc",
+      "15 Cancer",
+      "Saturn",
+      "MSL",
+      "GI, Q, R",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7220.499410325844,
+      1356.0116194643228,
+      7242.499408529177
+    ]
+  },
+  {
+    "row": 204,
+    "name": "Navigation (Medieval)",
+    "alt": "",
+    "raw": [
+      "Navigation (Medieval)",
+      "Asc",
+      "29 Cancer",
+      "Saturn",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7242.499408529177,
+      1356.0116194643228,
+      7263.499406814179
+    ]
+  },
+  {
+    "row": 205,
+    "name": "Necessity (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Necessity (Firmicus)",
+      "Asc",
+      "Spirit",
+      "Fortune",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7263.499406814179,
+      1356.0116194643228,
+      7284.499405099177
+    ]
+  },
+  {
+    "row": 206,
+    "name": "Necessity (Hermetic)",
+    "alt": "",
+    "raw": [
+      "Necessity (Hermetic)",
+      "Asc",
+      "Fortune",
+      "Mercury",
+      "PA",
+      "O2, MSL, MSP, MSV",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7284.499405099177,
+      1356.0116194643228,
+      7321.499402077513
+    ]
+  },
+  {
+    "row": 207,
+    "name": "Necessity (Persian)",
+    "alt": "",
+    "raw": [
+      "Necessity (Persian)",
+      "Asc",
+      "Mercury",
+      "Eros\n(Valens)",
+      "LJ",
+      "GI",
+      "reverse\n(LJ)",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7321.499402077513,
+      1356.0116194643228,
+      7358.499399055845
+    ]
+  },
+  {
+    "row": 208,
+    "name": "Necessity (Valens)",
+    "alt": "Poverty & Middling Wit",
+    "raw": [
+      "Necessity (Valens)\nⓘ\nPoverty & Middling Wit",
+      "Asc",
+      "Fortune",
+      "Spirit",
+      "VV",
+      "FM, GI, Q",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7358.499399055845,
+      1356.0116194643228,
+      7397.499395870845
+    ]
+  },
+  {
+    "row": 209,
+    "name": "Necessity & Hindering of Needs (Egyptian)",
+    "alt": "",
+    "raw": [
+      "Necessity & Hindering of\nNeeds (Egyptian)",
+      "Asc",
+      "3rd",
+      "Mars",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7397.499395870845,
+      1356.0116194643228,
+      7433.499392930845
+    ]
+  },
+  {
+    "row": 210,
+    "name": "Need & Desire",
+    "alt": "",
+    "raw": [
+      "Need & Desire",
+      "Mercury",
+      "Mars",
+      "Saturn",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7433.499392930845,
+      1356.0116194643228,
+      7455.499391134178
+    ]
+  },
+  {
+    "row": 211,
+    "name": "Nemesis",
+    "alt": "Divine Punishment; The Heavy One",
+    "raw": [
+      "Nemesis\nDivine Punishment; The Heavy\nⓘ\nOne",
+      "Asc",
+      "Fortune",
+      "Saturn",
+      "PA",
+      "O2, MSL, MSP, MSV, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval,\nHermetic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7455.499391134178,
+      1356.0116194643228,
+      7509.499386724178
+    ]
+  },
+  {
+    "row": 212,
+    "name": "Nemesis (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Nemesis (Firmicus)",
+      "Asc",
+      "Fortune",
+      "Moon",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7509.499386724178,
+      1356.0116194643228,
+      7530.499385009177
+    ]
+  },
+  {
+    "row": 213,
+    "name": "Noxious Place",
+    "alt": "Accusation; Crisis-Producing Place; Burdensome Place",
+    "raw": [
+      "Noxious Place\nAccusation; Crisis-Producing\nⓘ\nPlace; Burdensome Place",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "VV",
+      "RE, O2, TE, GI",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7530.499385009177,
+      1356.0116194643228,
+      7584.499380599179
+    ]
+  },
+  {
+    "row": 214,
+    "name": "Noxious Place (alternative)",
+    "alt": "Accusation; Crisis-Producing Place",
+    "raw": [
+      "Noxious Place (alternative)\nAccusation; Crisis-Producing\nⓘ\nPlace",
+      "Mercury",
+      "Mars",
+      "Saturn",
+      "TE",
+      "MSL",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7584.499380599179,
+      1356.0116194643228,
+      7638.499376189178
+    ]
+  },
+  {
+    "row": 215,
+    "name": "Number of Siblings",
+    "alt": "",
+    "raw": [
+      "Number of Siblings",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "GI",
+      "R",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7638.499376189178,
+      1356.0116194643228,
+      7660.4993743925115
+    ]
+  },
+  {
+    "row": 216,
+    "name": "Nuts (al-Bīrūnī)",
+    "alt": "",
+    "raw": [
+      "Nuts (al-Bīrūnī)",
+      "Asc",
+      "Venus",
+      "Mars",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7660.4993743925115,
+      1356.0116194643228,
+      7696.499371452513
+    ]
+  },
+  {
+    "row": 217,
+    "name": "Nuts (al-Qabīṣī Latin)",
+    "alt": "",
+    "raw": [
+      "Nuts (al-Qabīṣī Latin)",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "QL",
+      "GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7696.499371452513,
+      1356.0116194643228,
+      7733.4993684308465
+    ]
+  },
+  {
+    "row": 218,
+    "name": "Office",
+    "alt": "",
+    "raw": [
+      "Office",
+      "Asc",
+      "10th",
+      "Ruler 10th",
+      "LJ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7733.4993684308465,
+      1356.0116194643228,
+      7754.499366715845
+    ]
+  },
+  {
+    "row": 219,
+    "name": "Office & Carrying Out Orders",
+    "alt": "",
+    "raw": [
+      "Office & Carrying Out Orders",
+      "MC",
+      "Saturn",
+      "Sun",
+      "UT",
+      "",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7754.499366715845,
+      1356.0116194643228,
+      7791.499363694178
+    ]
+  },
+  {
+    "row": 220,
+    "name": "Office & King",
+    "alt": "Work and Authority",
+    "raw": [
+      "Office & King\nⓘ\nWork and Authority",
+      "Asc",
+      "MC",
+      "Jupiter",
+      "UT",
+      "R",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7791.499363694178,
+      1356.0116194643228,
+      7830.4993605091795
+    ]
+  },
+  {
+    "row": 221,
+    "name": "Oil",
+    "alt": "",
+    "raw": [
+      "Oil",
+      "Asc",
+      "Moon",
+      "Mars",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7830.4993605091795,
+      1356.0116194643228,
+      7867.499357487513
+    ]
+  },
+  {
+    "row": 222,
+    "name": "Olives",
+    "alt": "",
+    "raw": [
+      "Olives",
+      "Asc",
+      "Moon",
+      "Mercury",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7867.499357487513,
+      1356.0116194643228,
+      7903.499354547512
+    ]
+  },
+  {
+    "row": 223,
+    "name": "Onions",
+    "alt": "",
+    "raw": [
+      "Onions",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "QL",
+      "B, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7903.499354547512,
+      1356.0116194643228,
+      7940.499351525846
+    ]
+  },
+  {
+    "row": 224,
+    "name": "Opportunity",
+    "alt": "",
+    "raw": [
+      "Opportunity",
+      "Asc",
+      "Sun",
+      "Saturn",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      7940.499351525846,
+      1356.0116194643228,
+      7977.49934850418
+    ]
+  },
+  {
+    "row": 225,
+    "name": "Outcomes",
+    "alt": "Urgent Wish",
+    "raw": [
+      "Outcomes\nⓘ\nUrgent Wish",
+      "MC",
+      "Ruler Asc",
+      "Lord of\nHour",
+      "UT",
+      "B",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      7977.49934850418,
+      1356.0116194643228,
+      8015.499345400846
+    ]
+  },
+  {
+    "row": 226,
+    "name": "Outcomes of Affairs",
+    "alt": "",
+    "raw": [
+      "Outcomes of Affairs",
+      "Asc",
+      "Ruler Syzygy",
+      "Saturn",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8015.499345400846,
+      1356.0116194643228,
+      8037.49934360418
+    ]
+  },
+  {
+    "row": 227,
+    "name": "Parents",
+    "alt": "",
+    "raw": [
+      "Parents",
+      "Asc",
+      "Moon",
+      "Sun",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8037.49934360418,
+      1356.0116194643228,
+      8058.499341889179
+    ]
+  },
+  {
+    "row": 228,
+    "name": "Peace Among Soldiers",
+    "alt": "Concord",
+    "raw": [
+      "Peace Among Soldiers\nⓘ\nConcord",
+      "Asc",
+      "Mercury",
+      "Moon",
+      "UT",
+      "Q, B, R",
+      "",
+      "Medieval,\nHorary,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8058.499341889179,
+      1356.0116194643228,
+      8110.499337642514
+    ]
+  },
+  {
+    "row": 229,
+    "name": "Plenty & Abundance of Good in Home",
+    "alt": "",
+    "raw": [
+      "Plenty & Abundance of Good\nin Home",
+      "Asc",
+      "Mercury",
+      "Moon",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8110.499337642514,
+      1356.0116194643228,
+      8147.499334620847
+    ]
+  },
+  {
+    "row": 230,
+    "name": "Poisons",
+    "alt": "",
+    "raw": [
+      "Poisons",
+      "Asc",
+      "Saturn",
+      "North\nNode",
+      "Q",
+      "BW, GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8147.499334620847,
+      1356.0116194643228,
+      8184.499331599179
+    ]
+  },
+  {
+    "row": 231,
+    "name": "Power",
+    "alt": "",
+    "raw": [
+      "Power",
+      "Asc",
+      "Saturn",
+      "Sun",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8184.499331599179,
+      1356.0116194643228,
+      8205.49932988418
+    ]
+  },
+  {
+    "row": 232,
+    "name": "Prisoners (Day)",
+    "alt": "",
+    "raw": [
+      "Prisoners (Day)",
+      "Asc",
+      "Sun",
+      "Ruler Sun",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8205.49932988418,
+      1356.0116194643228,
+      8226.499328169179
+    ]
+  },
+  {
+    "row": 233,
+    "name": "Prisoners (Night)",
+    "alt": "",
+    "raw": [
+      "Prisoners (Night)",
+      "Asc",
+      "Moon",
+      "Ruler\nMoon",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8226.499328169179,
+      1356.0116194643228,
+      8263.499325147513
+    ]
+  },
+  {
+    "row": 234,
+    "name": "Prosperity",
+    "alt": "Peace-Making",
+    "raw": [
+      "Prosperity\nⓘ\nPeace-Making",
+      "Asc",
+      "Dsc",
+      "Sun",
+      "RD",
+      "B, R",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8263.499325147513,
+      1356.0116194643228,
+      8302.499321962512
+    ]
+  },
+  {
+    "row": 235,
+    "name": "Pulse",
+    "alt": "",
+    "raw": [
+      "Pulse",
+      "Asc",
+      "Mercury",
+      "Venus",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8302.499321962512,
+      1356.0116194643228,
+      8339.499318940847
+    ]
+  },
+  {
+    "row": 236,
+    "name": "Pungent/Spicy Foods",
+    "alt": "",
+    "raw": [
+      "Pungent/Spicy Foods",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8339.499318940847,
+      1356.0116194643228,
+      8375.499316000847
+    ]
+  },
+  {
+    "row": 237,
+    "name": "Punishment (Hellenistic)",
+    "alt": "Justice",
+    "raw": [
+      "Punishment (Hellenistic)\nⓘ\nJustice",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8375.499316000847,
+      1356.0116194643228,
+      8414.499312815846
+    ]
+  },
+  {
+    "row": 238,
+    "name": "Punishment (Medieval)",
+    "alt": "Recompense",
+    "raw": [
+      "Punishment (Medieval)\nⓘ\nRecompense",
+      "Asc",
+      "Sun",
+      "Mars",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8414.499312815846,
+      1356.0116194643228,
+      8453.499309630848
+    ]
+  },
+  {
+    "row": 239,
+    "name": "Purchase 1A",
+    "alt": "",
+    "raw": [
+      "Purchase 1A",
+      "Asc",
+      "Mercury",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8453.499309630848,
+      1356.0116194643228,
+      8474.499307915847
+    ]
+  },
+  {
+    "row": 240,
+    "name": "Purchase 1B",
+    "alt": "",
+    "raw": [
+      "Purchase 1B",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "MSP",
+      "MSV, MSR",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8474.499307915847,
+      1356.0116194643228,
+      8495.499306200847
+    ]
+  },
+  {
+    "row": 241,
+    "name": "Purchase 2A",
+    "alt": "",
+    "raw": [
+      "Purchase 2A",
+      "Asc",
+      "Venus",
+      "Mars",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8495.499306200847,
+      1356.0116194643228,
+      8517.49930440418
+    ]
+  },
+  {
+    "row": 242,
+    "name": "Purchase 2B",
+    "alt": "",
+    "raw": [
+      "Purchase 2B",
+      "Asc",
+      "Mars",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      8517.49930440418,
+      1356.0116194643228,
+      8554.499301382513
+    ]
+  },
+  {
+    "row": 243,
+    "name": "Purgative & Salty Medicines",
+    "alt": "",
+    "raw": [
+      "Purgative & Salty Medicines",
+      "Asc",
+      "Moon",
+      "Mars",
+      "Q",
+      "BW, GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8554.499301382513,
+      1356.0116194643228,
+      8590.499298442513
+    ]
+  },
+  {
+    "row": 244,
+    "name": "Purgative & Sour Medicines",
+    "alt": "",
+    "raw": [
+      "Purgative & Sour Medicines",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8590.499298442513,
+      1356.0116194643228,
+      8627.499295420848
+    ]
+  },
+  {
+    "row": 245,
+    "name": "Purgative & Sweet Medicines",
+    "alt": "",
+    "raw": [
+      "Purgative & Sweet Medicines",
+      "Asc",
+      "Moon",
+      "Sun",
+      "Q",
+      "GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8627.499295420848,
+      1356.0116194643228,
+      8664.49929239918
+    ]
+  },
+  {
+    "row": 246,
+    "name": "Purgatives (al-Bīrūnī)",
+    "alt": "",
+    "raw": [
+      "Purgatives (al-Bīrūnī)",
+      "Asc",
+      "Saturn",
+      "Mercury",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      8664.49929239918,
+      1356.0116194643228,
+      8700.49928945918
+    ]
+  },
+  {
+    "row": 247,
+    "name": "Rain (Annual)",
+    "alt": "Consideration Concerning Revolution of the Year",
+    "raw": [
+      "Rain (Annual)\nConsideration Concerning\nⓘ\nRevolution of the Year",
+      "Sun",
+      "Venus",
+      "Moon",
+      "SH",
+      "B, Q",
+      "reverse",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8700.49928945918,
+      1356.0116194643228,
+      8754.49928504918
+    ]
+  },
+  {
+    "row": 248,
+    "name": "Rain (Ibn Ezra)",
+    "alt": "",
+    "raw": [
+      "Rain (Ibn Ezra)",
+      "Asc",
+      "Moon",
+      "New Moon",
+      "BW",
+      "",
+      "reverse",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8754.49928504918,
+      1356.0116194643228,
+      8791.499282027515
+    ]
+  },
+  {
+    "row": 249,
+    "name": "Real Estate (al-Ṭabarī)",
+    "alt": "",
+    "raw": [
+      "Real Estate (al-Ṭabarī)",
+      "4th",
+      "Saturn",
+      "Ruler 4th",
+      "UT",
+      "R",
+      "reverse",
+      "Medieval,\nHorary",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      8791.499282027515,
+      1356.0116194643228,
+      8828.499279005848
+    ]
+  },
+  {
+    "row": 250,
+    "name": "Real Estate (Hermes)",
+    "alt": "",
+    "raw": [
+      "Real Estate (Hermes)",
+      "Asc",
+      "Moon",
+      "Saturn",
+      "GI",
+      "Q, R",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8828.499279005848,
+      1356.0116194643228,
+      8849.499277290848
+    ]
+  },
+  {
+    "row": 251,
+    "name": "Real Estate (Persian)",
+    "alt": "",
+    "raw": [
+      "Real Estate (Persian)",
+      "Asc",
+      "Jupiter",
+      "Mercury",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8849.499277290848,
+      1356.0116194643228,
+      8871.499275494181
+    ]
+  },
+  {
+    "row": 252,
+    "name": "Reason & Depth of Thought",
+    "alt": "Deep Knowledge",
+    "raw": [
+      "Reason & Depth of Thought\nⓘ\nDeep Knowledge",
+      "Asc",
+      "Moon",
+      "Saturn",
+      "GI",
+      "Q",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8871.499275494181,
+      1356.0116194643228,
+      8909.499272390847
+    ]
+  },
+  {
+    "row": 253,
+    "name": "Releaser",
+    "alt": "",
+    "raw": [
+      "Releaser",
+      "Asc",
+      "Moon",
+      "Syzygy",
+      "VV",
+      "GI, Q, R",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8909.499272390847,
+      1356.0116194643228,
+      8931.49927059418
+    ]
+  },
+  {
+    "row": 254,
+    "name": "Religion/Piety",
+    "alt": "",
+    "raw": [
+      "Religion/Piety",
+      "Asc",
+      "Mercury",
+      "Moon",
+      "GI",
+      "Q, R",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8931.49927059418,
+      1356.0116194643228,
+      8952.49926887918
+    ]
+  },
+  {
+    "row": 255,
+    "name": "Reward 1",
+    "alt": "",
+    "raw": [
+      "Reward 1",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      8952.49926887918,
+      1356.0116194643228,
+      8973.49926716418
+    ]
+  },
+  {
+    "row": 256,
+    "name": "Reward 2A",
+    "alt": "",
+    "raw": [
+      "Reward 2A",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "O2",
+      "MSV",
+      "reverse",
+      "Hellenistic",
+      "Mult."
+    ],
+    "bbox": [
+      437.98252237096,
+      8973.49926716418,
+      1356.0116194643228,
+      8995.499265367513
+    ]
+  },
+  {
+    "row": 257,
+    "name": "Reward 2B",
+    "alt": "",
+    "raw": [
+      "Reward 2B",
+      "Asc",
+      "Mercury",
+      "Venus",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      8995.499265367513,
+      1356.0116194643228,
+      9016.499263652515
+    ]
+  },
+  {
+    "row": 258,
+    "name": "Reward 3",
+    "alt": "",
+    "raw": [
+      "Reward 3",
+      "Asc",
+      "IC",
+      "Ruler IC",
+      "MSV",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9016.499263652515,
+      1356.0116194643228,
+      9038.499261855848
+    ]
+  },
+  {
+    "row": 259,
+    "name": "Rice",
+    "alt": "",
+    "raw": [
+      "Rice",
+      "Asc",
+      "Saturn",
+      "Jupiter",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9038.499261855848,
+      1356.0116194643228,
+      9074.499258915846
+    ]
+  },
+  {
+    "row": 260,
+    "name": "Rice & Millet",
+    "alt": "",
+    "raw": [
+      "Rice & Millet",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9074.499258915846,
+      1356.0116194643228,
+      9111.499255894181
+    ]
+  },
+  {
+    "row": 261,
+    "name": "Royal Lot (al-Ṭabarī)",
+    "alt": "",
+    "raw": [
+      "Royal Lot (al-Ṭabarī)",
+      "Mars",
+      "Jupiter",
+      "Sun",
+      "UT",
+      "",
+      "reverse\n(if Jupiter is\nstronger)",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9111.499255894181,
+      1356.0116194643228,
+      9163.499251647514
+    ]
+  },
+  {
+    "row": 262,
+    "name": "Royal Lot (Theophilus)",
+    "alt": "",
+    "raw": [
+      "Royal Lot (Theophilus)",
+      "MC",
+      "Moon",
+      "Sun",
+      "TE",
+      "",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9163.499251647514,
+      1356.0116194643228,
+      9200.499248625849
+    ]
+  },
+  {
+    "row": 263,
+    "name": "Rulership & Authority 1",
+    "alt": "",
+    "raw": [
+      "Rulership & Authority 1",
+      "Asc",
+      "Moon",
+      "Mars",
+      "GI",
+      "Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9200.499248625849,
+      1356.0116194643228,
+      9236.499245685849
+    ]
+  },
+  {
+    "row": 264,
+    "name": "Rulership & Authority 2",
+    "alt": "",
+    "raw": [
+      "Rulership & Authority 2",
+      "Jupiter",
+      "MC",
+      "MC of Sun",
+      "RD",
+      "Q, B, BW",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9236.499245685849,
+      1356.0116194643228,
+      9273.49924266418
+    ]
+  },
+  {
+    "row": 265,
+    "name": "Rulership 1",
+    "alt": "",
+    "raw": [
+      "Rulership 1",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9273.49924266418,
+      1356.0116194643228,
+      9295.499240867513
+    ]
+  },
+  {
+    "row": 266,
+    "name": "Rulership 2",
+    "alt": "",
+    "raw": [
+      "Rulership 2",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "MSP",
+      "MSR, MSV",
+      "reverse",
+      "Hellenistic",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      9295.499240867513,
+      1356.0116194643228,
+      9316.499239152514
+    ]
+  },
+  {
+    "row": 267,
+    "name": "Rumors",
+    "alt": "",
+    "raw": [
+      "Rumors",
+      "Sun",
+      "Ruler Asc",
+      "Lord of\nHour",
+      "PD",
+      "HC",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9316.499239152514,
+      1356.0116194643228,
+      9353.499236130847
+    ]
+  },
+  {
+    "row": 268,
+    "name": "Rumors, True or False",
+    "alt": "",
+    "raw": [
+      "Rumors, True or False",
+      "Asc",
+      "Moon",
+      "Mercury",
+      "GI",
+      "Q, B",
+      "reverse\n(GI, RB)",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9353.499236130847,
+      1356.0116194643228,
+      9389.499233190849
+    ]
+  },
+  {
+    "row": 269,
+    "name": "Sale 1",
+    "alt": "",
+    "raw": [
+      "Sale 1",
+      "Asc",
+      "Moon",
+      "Mercury",
+      "O1",
+      "MSL, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9389.499233190849,
+      1356.0116194643228,
+      9411.499231394182
+    ]
+  },
+  {
+    "row": 270,
+    "name": "Sale 2",
+    "alt": "",
+    "raw": [
+      "Sale 2",
+      "Asc",
+      "Mars",
+      "Venus",
+      "O2",
+      "MSR, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9411.499231394182,
+      1356.0116194643228,
+      9432.499229679182
+    ]
+  },
+  {
+    "row": 271,
+    "name": "Salt",
+    "alt": "",
+    "raw": [
+      "Salt",
+      "Asc",
+      "Mars",
+      "Moon",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9432.499229679182,
+      1356.0116194643228,
+      9469.499226657515
+    ]
+  },
+  {
+    "row": 272,
+    "name": "Salty Things",
+    "alt": "",
+    "raw": [
+      "Salty Things",
+      "Asc",
+      "Moon",
+      "Mars",
+      "QL",
+      "GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9469.499226657515,
+      1356.0116194643228,
+      9506.499223635848
+    ]
+  },
+  {
+    "row": 273,
+    "name": "Secrets",
+    "alt": "",
+    "raw": [
+      "Secrets",
+      "Asc",
+      "10th",
+      "Ruler Asc",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9506.499223635848,
+      1356.0116194643228,
+      9542.499220695849
+    ]
+  },
+  {
+    "row": 274,
+    "name": "Sesame 1",
+    "alt": "",
+    "raw": [
+      "Sesame 1",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "Q",
+      "GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9542.499220695849,
+      1356.0116194643228,
+      9579.499217674182
+    ]
+  },
+  {
+    "row": 275,
+    "name": "Sesame 2",
+    "alt": "",
+    "raw": [
+      "Sesame 2",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "Q",
+      "B",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9579.499217674182,
+      1356.0116194643228,
+      9616.499214652515
+    ]
+  },
+  {
+    "row": 276,
+    "name": "Ship-Owning",
+    "alt": "",
+    "raw": [
+      "Ship-Owning",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "O1",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9616.499214652515,
+      1356.0116194643228,
+      9637.499212937515
+    ]
+  },
+  {
+    "row": 277,
+    "name": "Siblings",
+    "alt": "Brothers",
+    "raw": [
+      "Siblings\nBrothers",
+      "Asc",
+      "Jupiter",
+      "Saturn",
+      "DS",
+      "VV, PA, FM, O2, MSL, MSP,\nMSV, BA, SB, GI, Q, R",
+      "reverse\n(VV, FM, M)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9637.499212937515,
+      1356.0116194643228,
+      9674.499209915848
+    ]
+  },
+  {
+    "row": 278,
+    "name": "Siblings (Firmicus)",
+    "alt": "",
+    "raw": [
+      "Siblings (Firmicus)",
+      "Asc",
+      "Sun",
+      "Mercury",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9674.499209915848,
+      1356.0116194643228,
+      9695.499208200848
+    ]
+  },
+  {
+    "row": 279,
+    "name": "Siblings (Persian)",
+    "alt": "",
+    "raw": [
+      "Siblings (Persian)",
+      "Asc",
+      "Mars",
+      "Ruler Asc",
+      "JZ",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9695.499208200848,
+      1356.0116194643228,
+      9716.499206485847
+    ]
+  },
+  {
+    "row": 280,
+    "name": "Silk",
+    "alt": "",
+    "raw": [
+      "Silk",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "B",
+      "GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9716.499206485847,
+      1356.0116194643228,
+      9753.499203464182
+    ]
+  },
+  {
+    "row": 281,
+    "name": "Sisters",
+    "alt": "Death of the Mother (Latin)",
+    "raw": [
+      "Sisters\nDeath of the Mother (Latin)",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "Q",
+      "",
+      "reverse",
+      "Medieval",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      9753.499203464182,
+      1356.0116194643228,
+      9790.499200442517
+    ]
+  },
+  {
+    "row": 282,
+    "name": "Sliblings (Number)",
+    "alt": "",
+    "raw": [
+      "Sliblings (Number)",
+      "Asc",
+      "Jupiter",
+      "Mercury",
+      "DS",
+      "BA, SB, GI",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9790.499200442517,
+      1356.0116194643228,
+      9827.499197420848
+    ]
+  },
+  {
+    "row": 283,
+    "name": "Soldiers & Policemen",
+    "alt": "Soldiers & Conscription",
+    "raw": [
+      "Soldiers & Policemen\nⓘ\nSoldiers & Conscription",
+      "Asc",
+      "Saturn",
+      "Mars",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9827.499197420848,
+      1356.0116194643228,
+      9865.499194317516
+    ]
+  },
+  {
+    "row": 284,
+    "name": "Sons-in-Law",
+    "alt": "In-Laws",
+    "raw": [
+      "Sons-in-Law\nⓘ\nIn-Laws",
+      "Asc",
+      "Venus",
+      "Saturn",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9865.499194317516,
+      1356.0116194643228,
+      9904.499191132514
+    ]
+  },
+  {
+    "row": 285,
+    "name": "Soul's Freedom",
+    "alt": "",
+    "raw": [
+      "Soul's Freedom",
+      "Asc",
+      "Sun",
+      "Mercury",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9904.499191132514,
+      1356.0116194643228,
+      9925.499189417515
+    ]
+  },
+  {
+    "row": 286,
+    "name": "Sour Foods",
+    "alt": "",
+    "raw": [
+      "Sour Foods",
+      "Asc",
+      "Mars",
+      "Saturn",
+      "Q",
+      "BW, GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9925.499189417515,
+      1356.0116194643228,
+      9962.49918639585
+    ]
+  },
+  {
+    "row": 287,
+    "name": "Sowing",
+    "alt": "Conception",
+    "raw": [
+      "Sowing\nⓘ\nConception",
+      "Asc",
+      "Mars",
+      "Sun",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      9962.49918639585,
+      1356.0116194643228,
+      10001.499183210848
+    ]
+  },
+  {
+    "row": 288,
+    "name": "Spirit",
+    "alt": "Daimon; Fate; The Hidden",
+    "raw": [
+      "Spirit\nⓘ\nDaimon; Fate; The Hidden",
+      "Asc",
+      "Sun",
+      "Moon",
+      "VV",
+      "VV, FM, PA, O2, MSL, MSP,\nMSV, SB, GI, Q, R",
+      "reverse",
+      "Hellenistic,\nMedieval",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      10001.499183210848,
+      1356.0116194643228,
+      10040.49918002585
+    ]
+  },
+  {
+    "row": 289,
+    "name": "Strength",
+    "alt": "",
+    "raw": [
+      "Strength",
+      "Asc",
+      "MC",
+      "Sun",
+      "O2",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10040.49918002585,
+      1356.0116194643228,
+      10061.499178310849
+    ]
+  },
+  {
+    "row": 290,
+    "name": "Strength of the Body",
+    "alt": "",
+    "raw": [
+      "Strength of the Body",
+      "Asc",
+      "Jupiter",
+      "Moon",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10061.499178310849,
+      1356.0116194643228,
+      10082.49917659585
+    ]
+  },
+  {
+    "row": 291,
+    "name": "Substance and Possessions",
+    "alt": "",
+    "raw": [
+      "Substance and Possessions",
+      "Asc",
+      "Jupiter",
+      "Mercury",
+      "FM",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10082.49917659585,
+      1356.0116194643228,
+      10104.499174799183
+    ]
+  },
+  {
+    "row": 292,
+    "name": "Success",
+    "alt": "",
+    "raw": [
+      "Success",
+      "Asc",
+      "Jupiter",
+      "Fortune",
+      "GI",
+      "B",
+      "reverse",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10104.499174799183,
+      1356.0116194643228,
+      10140.499171859183
+    ]
+  },
+  {
+    "row": 293,
+    "name": "Successful Issue",
+    "alt": "",
+    "raw": [
+      "Successful Issue",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10140.499171859183,
+      1356.0116194643228,
+      10177.499168837516
+    ]
+  },
+  {
+    "row": 294,
+    "name": "Suffering",
+    "alt": "",
+    "raw": [
+      "Suffering",
+      "Asc",
+      "Fortune",
+      "Spirit",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10177.499168837516,
+      1356.0116194643228,
+      10198.499167122516
+    ]
+  },
+  {
+    "row": 295,
+    "name": "Sugar (al-Bīrūnī)",
+    "alt": "",
+    "raw": [
+      "Sugar (al-Bīrūnī)",
+      "Asc",
+      "Mercury",
+      "Venus",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10198.499167122516,
+      1356.0116194643228,
+      10235.49916410085
+    ]
+  },
+  {
+    "row": 296,
+    "name": "Sugar (al-Qabīṣī Latin)",
+    "alt": "",
+    "raw": [
+      "Sugar (al-Qabīṣī Latin)",
+      "Asc",
+      "Venus",
+      "Mercury",
+      "QL",
+      "GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10235.49916410085,
+      1356.0116194643228,
+      10272.499161079184
+    ]
+  },
+  {
+    "row": 297,
+    "name": "Sweet Foods",
+    "alt": "",
+    "raw": [
+      "Sweet Foods",
+      "Asc",
+      "Venus",
+      "Sun",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10272.499161079184,
+      1356.0116194643228,
+      10309.499158057517
+    ]
+  },
+  {
+    "row": 298,
+    "name": "Tales, Knowledge of Rumors & Superstiations",
+    "alt": "",
+    "raw": [
+      "Tales, Knowledge of Rumors\n& Superstiations",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10309.499158057517,
+      1356.0116194643228,
+      10345.499155117515
+    ]
+  },
+  {
+    "row": 299,
+    "name": "The Creditor",
+    "alt": "",
+    "raw": [
+      "The Creditor",
+      "Asc",
+      "Mercury",
+      "Saturn",
+      "MSL",
+      "",
+      "",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10345.499155117515,
+      1356.0116194643228,
+      10367.499153320849
+    ]
+  },
+  {
+    "row": 300,
+    "name": "The Fugitive",
+    "alt": "",
+    "raw": [
+      "The Fugitive",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "MSL",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10367.499153320849,
+      1356.0116194643228,
+      10388.499151605849
+    ]
+  },
+  {
+    "row": 301,
+    "name": "The Husband",
+    "alt": "",
+    "raw": [
+      "The Husband",
+      "Asc",
+      "Venus",
+      "Mars",
+      "FM",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10388.499151605849,
+      1356.0116194643228,
+      10409.499149890851
+    ]
+  },
+  {
+    "row": 302,
+    "name": "The King (Theophilus)",
+    "alt": "",
+    "raw": [
+      "The King (Theophilus)",
+      "Cancer",
+      "Leo",
+      "Moon",
+      "TE",
+      "",
+      "",
+      "Medieval,\nMundane",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      10409.499149890851,
+      1356.0116194643228,
+      10446.499146869182
+    ]
+  },
+  {
+    "row": 303,
+    "name": "The Master",
+    "alt": "",
+    "raw": [
+      "The Master",
+      "Asc",
+      "Sun",
+      "Venus",
+      "MSL",
+      "MSP, MSV",
+      "reverse\n(MSP, MSV)",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10446.499146869182,
+      1356.0116194643228,
+      10483.499143847517
+    ]
+  },
+  {
+    "row": 304,
+    "name": "The Month",
+    "alt": "",
+    "raw": [
+      "The Month",
+      "Leo",
+      "Cancer",
+      "Sun",
+      "TE",
+      "",
+      "",
+      "Medieval,\nMundane",
+      "ⓘ"
+    ],
+    "bbox": [
+      437.98252237096,
+      10483.499143847517,
+      1356.0116194643228,
+      10520.499140825848
+    ]
+  },
+  {
+    "row": 305,
+    "name": "The Praised & Commended",
+    "alt": "",
+    "raw": [
+      "The Praised & Commended",
+      "Asc",
+      "Venus",
+      "Jupiter",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10520.499140825848,
+      1356.0116194643228,
+      10541.49913911085
+    ]
+  },
+  {
+    "row": 306,
+    "name": "Theft (Olympiodorus)",
+    "alt": "Thieves",
+    "raw": [
+      "Theft (Olympiodorus)\nThieves",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "O1",
+      "O2, MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10541.49913911085,
+      1356.0116194643228,
+      10578.499136089182
+    ]
+  },
+  {
+    "row": 307,
+    "name": "Theft (Valens)",
+    "alt": "",
+    "raw": [
+      "Theft (Valens)",
+      "Saturn",
+      "Mars",
+      "Mercury",
+      "VV",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10578.499136089182,
+      1356.0116194643228,
+      10599.499134374182
+    ]
+  },
+  {
+    "row": 308,
+    "name": "Those Honored & Known Among Peopl",
+    "alt": "",
+    "raw": [
+      "Those Honored & Known\nAmong Peopl",
+      "Asc",
+      "Sun",
+      "Mercury",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10599.499134374182,
+      1356.0116194643228,
+      10636.499131352517
+    ]
+  },
+  {
+    "row": 309,
+    "name": "Those Suddenly Elevated",
+    "alt": "",
+    "raw": [
+      "Those Suddenly Elevated",
+      "Asc",
+      "Fortune",
+      "Saturn",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10636.499131352517,
+      1356.0116194643228,
+      10657.499129637516
+    ]
+  },
+  {
+    "row": 310,
+    "name": "Time for Action",
+    "alt": "Time of Dignity",
+    "raw": [
+      "Time for Action\nⓘ\nTime of Dignity",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "B",
+      "R",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10657.499129637516,
+      1356.0116194643228,
+      10696.499126452518
+    ]
+  },
+  {
+    "row": 311,
+    "name": "Time Occupied by Action",
+    "alt": "",
+    "raw": [
+      "Time Occupied by Action",
+      "Asc",
+      "Saturn",
+      "Sun",
+      "B",
+      "",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10696.499126452518,
+      1356.0116194643228,
+      10733.499123430849
+    ]
+  },
+  {
+    "row": 312,
+    "name": "Time of Attainment",
+    "alt": "",
+    "raw": [
+      "Time of Attainment",
+      "Asc",
+      "Ruler 10th",
+      "Lord of\nHour",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nHorary",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      10733.499123430849,
+      1356.0116194643228,
+      10769.499120490851
+    ]
+  },
+  {
+    "row": 313,
+    "name": "Time of Children",
+    "alt": "",
+    "raw": [
+      "Time of Children",
+      "Asc",
+      "Jupiter",
+      "Mars",
+      "DS",
+      "SB, GI, Q, R",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10769.499120490851,
+      1356.0116194643228,
+      10806.499117469184
+    ]
+  },
+  {
+    "row": 314,
+    "name": "Torture",
+    "alt": "",
+    "raw": [
+      "Torture",
+      "6th",
+      "Saturn",
+      "Moon",
+      "UT",
+      "B",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10806.499117469184,
+      1356.0116194643228,
+      10843.499114447517
+    ]
+  },
+  {
+    "row": 315,
+    "name": "Travel",
+    "alt": "Living Abroad",
+    "raw": [
+      "Travel\nⓘ\nLiving Abroad",
+      "Asc",
+      "9th",
+      "Ruler 9th",
+      "MSL",
+      "BA, SB, GI, Q, R",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10843.499114447517,
+      1356.0116194643228,
+      10881.499111344185
+    ]
+  },
+  {
+    "row": 316,
+    "name": "Travel (Firmicus)",
+    "alt": "Living Abroad",
+    "raw": [
+      "Travel (Firmicus)\nⓘ\nLiving Abroad",
+      "Asc",
+      "Mars",
+      "Sun",
+      "FM",
+      "O2, MSL, MSP, MSV",
+      "reverse\n(O1, MSL,\nMSP, MSV)",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      10881.499111344185,
+      1356.0116194643228,
+      10933.499107097516
+    ]
+  },
+  {
+    "row": 317,
+    "name": "Underground Things A",
+    "alt": "Properties",
+    "raw": [
+      "Underground Things A\nⓘ\nProperties",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "O2",
+      "MSL, MSP, MSV",
+      "reverse\n(MSP, MSV)",
+      "Hellenistic",
+      "2A,\nMult."
+    ],
+    "bbox": [
+      437.98252237096,
+      10933.499107097516,
+      1356.0116194643228,
+      10972.499103912518
+    ]
+  },
+  {
+    "row": 318,
+    "name": "Underground Things B",
+    "alt": "Properties",
+    "raw": [
+      "Underground Things B\nⓘ\nProperties",
+      "Asc",
+      "Mars",
+      "Venus",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      "2B,\n2L,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      10972.499103912518,
+      1356.0116194643228,
+      11024.49909966585
+    ]
+  },
+  {
+    "row": 319,
+    "name": "Underground Things C",
+    "alt": "Properties",
+    "raw": [
+      "Underground Things C\nⓘ\nProperties",
+      "Asc",
+      "Venus",
+      "Mars",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      "1B,\nDub."
+    ],
+    "bbox": [
+      437.98252237096,
+      11024.49909966585,
+      1356.0116194643228,
+      11063.49909648085
+    ]
+  },
+  {
+    "row": 320,
+    "name": "Victory",
+    "alt": "Prosperity & Aid",
+    "raw": [
+      "Victory\nⓘ\nProsperity & Aid",
+      "Asc",
+      "Jupiter",
+      "Spirit",
+      "PA",
+      "O2, MSL, MSP, MSV, GI, RD,\nQ, R",
+      "reverse",
+      "Hellenistic,\nMedieval,\nHermetic,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11063.49909648085,
+      1356.0116194643228,
+      11130.499091009184
+    ]
+  },
+  {
+    "row": 321,
+    "name": "Victory (Olympiodorus)",
+    "alt": "",
+    "raw": [
+      "Victory (Olympiodorus)",
+      "Asc",
+      "Mars",
+      "Venus",
+      "O1",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11130.499091009184,
+      1356.0116194643228,
+      11152.499089212517
+    ]
+  },
+  {
+    "row": 322,
+    "name": "War (al-Ṭabarī)",
+    "alt": "",
+    "raw": [
+      "War (al-Ṭabarī)",
+      "Asc",
+      "Moon",
+      "Mars",
+      "UT",
+      "B",
+      "",
+      "Medieval,\nHorary",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11152.499089212517,
+      1356.0116194643228,
+      11188.499086272517
+    ]
+  },
+  {
+    "row": 323,
+    "name": "Water (Commodity)",
+    "alt": "",
+    "raw": [
+      "Water (Commodity)",
+      "Asc",
+      "Venus",
+      "Moon",
+      "Q",
+      "B, BW, GB",
+      "reverse\n(B)",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11188.499086272517,
+      1356.0116194643228,
+      11225.499083250852
+    ]
+  },
+  {
+    "row": 324,
+    "name": "Water (Element)",
+    "alt": "",
+    "raw": [
+      "Water (Element)",
+      "Asc",
+      "Venus",
+      "Moon",
+      "B",
+      "",
+      "",
+      "Medieval,\nWeather",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11225.499083250852,
+      1356.0116194643228,
+      11262.499080229183
+    ]
+  },
+  {
+    "row": 325,
+    "name": "Watermelons (al-Bīrūnī)",
+    "alt": "",
+    "raw": [
+      "Watermelons (al-Bīrūnī)",
+      "Asc",
+      "Mercury",
+      "Jupiter",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11262.499080229183,
+      1356.0116194643228,
+      11299.499077207518
+    ]
+  },
+  {
+    "row": 326,
+    "name": "Waters",
+    "alt": "",
+    "raw": [
+      "Waters",
+      "Asc",
+      "Saturn",
+      "Venus",
+      "O2",
+      "",
+      "reverse",
+      "Hellenistic",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11299.499077207518,
+      1356.0116194643228,
+      11320.499075492517
+    ]
+  },
+  {
+    "row": 327,
+    "name": "Wealth A",
+    "alt": "",
+    "raw": [
+      "Wealth A",
+      "Asc",
+      "Sun",
+      "Jupiter",
+      "O2",
+      "MSP, MSV",
+      "reverse",
+      "Hellenistic",
+      "Mult."
+    ],
+    "bbox": [
+      437.98252237096,
+      11320.499075492517,
+      1356.0116194643228,
+      11341.499073777517
+    ]
+  },
+  {
+    "row": 328,
+    "name": "Wealth B",
+    "alt": "",
+    "raw": [
+      "Wealth B",
+      "Asc",
+      "Sun",
+      "Saturn",
+      "MSL",
+      "",
+      "reverse",
+      "Hellenistic",
+      "Dub."
+    ],
+    "bbox": [
+      437.98252237096,
+      11341.499073777517,
+      1356.0116194643228,
+      11363.49907198085
+    ]
+  },
+  {
+    "row": 329,
+    "name": "Wedding",
+    "alt": "Arrangement and Facilitation of Marriage",
+    "raw": [
+      "Wedding\nArrangement and Facilitation of\nⓘ\nMarriage",
+      "Venus",
+      "Moon",
+      "Sun",
+      "DS",
+      "SB, GI",
+      "",
+      "Hellenistic,\nMedieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11363.49907198085,
+      1356.0116194643228,
+      11417.49906757085
+    ]
+  },
+  {
+    "row": 330,
+    "name": "Wheat",
+    "alt": "",
+    "raw": [
+      "Wheat",
+      "Asc",
+      "Mars",
+      "Sun",
+      "Q",
+      "BW, GB",
+      "",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11417.49906757085,
+      1356.0116194643228,
+      11454.499064549185
+    ]
+  },
+  {
+    "row": 331,
+    "name": "Wheat (al-Bīrūnī)",
+    "alt": "",
+    "raw": [
+      "Wheat (al-Bīrūnī)",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "B",
+      "",
+      "reverse",
+      "Medieval,\nCommodity",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11454.499064549185,
+      1356.0116194643228,
+      11490.499061609185
+    ]
+  },
+  {
+    "row": 332,
+    "name": "Whether Someone's Rule Will Come to Pass",
+    "alt": "",
+    "raw": [
+      "Whether Someone's Rule Will\nCome to Pass",
+      "Jupiter",
+      "MC",
+      "Sun",
+      "Q",
+      "R",
+      "",
+      "Medieval,\nMundane",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11490.499061609185,
+      1356.0116194643228,
+      11527.499058587517
+    ]
+  },
+  {
+    "row": 333,
+    "name": "Woman's Abstinence",
+    "alt": "",
+    "raw": [
+      "Woman's Abstinence",
+      "Asc",
+      "Venus",
+      "Moon",
+      "GI",
+      "",
+      "",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11527.499058587517,
+      1356.0116194643228,
+      11548.499056872517
+    ]
+  },
+  {
+    "row": 334,
+    "name": "Work of Truth",
+    "alt": "",
+    "raw": [
+      "Work of Truth",
+      "Asc",
+      "Mars",
+      "Mercury",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11548.499056872517,
+      1356.0116194643228,
+      11570.49905507585
+    ]
+  },
+  {
+    "row": 335,
+    "name": "Work Which Must be Done",
+    "alt": "",
+    "raw": [
+      "Work Which Must be Done",
+      "Asc",
+      "Jupiter",
+      "Sun",
+      "GI",
+      "",
+      "reverse",
+      "Medieval",
+      ""
+    ],
+    "bbox": [
+      437.98252237096,
+      11570.49905507585,
+      1356.0116194643228,
+      11591.099053393518
+    ]
+  }
+]

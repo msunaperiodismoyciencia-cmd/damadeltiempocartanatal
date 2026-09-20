@@ -1,0 +1,15 @@
+{
+  "name": "dama-del-tiempo",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit",
+    "test:wheel": "node --test --test-isolation=none tests/wheel.test.mjs tests/orbs.test.mjs tests/dignities.test.mjs tests/angular.test.mjs tests/compact-aspects.test.mjs tests/lots.test.mjs tests/profections.test.mjs"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  }
+}

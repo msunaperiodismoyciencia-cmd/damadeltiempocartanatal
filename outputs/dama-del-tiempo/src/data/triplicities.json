@@ -1,0 +1,89 @@
+{
+  "system": "Triplicidades de Doroteo",
+  "source": "Doroteo, Carmen Astrologicum, I.1; traducción de D. Pingree",
+  "reference": "https://www.skyscript.co.uk/dorotheus1.pdf",
+  "version": "1.0.0",
+  "boundary": "[inicio, fin): comienzo inclusivo, final exclusivo; grados sin redondear",
+  "intervals": [
+    {
+      "element": "Fuego",
+      "day": "Sol",
+      "night": "Júpiter",
+      "participant": "Saturno",
+      "signs": [
+        {
+          "start": 0,
+          "end": 30
+        },
+        {
+          "start": 120,
+          "end": 150
+        },
+        {
+          "start": 240,
+          "end": 270
+        }
+      ]
+    },
+    {
+      "element": "Tierra",
+      "day": "Venus",
+      "night": "Luna",
+      "participant": "Marte",
+      "signs": [
+        {
+          "start": 30,
+          "end": 60
+        },
+        {
+          "start": 150,
+          "end": 180
+        },
+        {
+          "start": 270,
+          "end": 300
+        }
+      ]
+    },
+    {
+      "element": "Aire",
+      "day": "Saturno",
+      "night": "Mercurio",
+      "participant": "Júpiter",
+      "signs": [
+        {
+          "start": 60,
+          "end": 90
+        },
+        {
+          "start": 180,
+          "end": 210
+        },
+        {
+          "start": 300,
+          "end": 330
+        }
+      ]
+    },
+    {
+      "element": "Agua",
+      "day": "Venus",
+      "night": "Marte",
+      "participant": "Luna",
+      "signs": [
+        {
+          "start": 90,
+          "end": 120
+        },
+        {
+          "start": 210,
+          "end": 240
+        },
+        {
+          "start": 330,
+          "end": 360
+        }
+      ]
+    }
+  ]
+}
